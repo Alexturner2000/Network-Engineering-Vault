@@ -1,2 +1,2 @@
-# How to use
+# How to Use
 use of [[tags]] will link ideas and notes together. At the top of each note, there will be a list of tags to describe the type of note that was taken.
