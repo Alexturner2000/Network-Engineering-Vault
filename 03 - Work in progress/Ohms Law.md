@@ -3,9 +3,15 @@ tags: [[Electrical]], [[Math]], [[Current]],
 
 Ohm's law states that the electric current through a conductor between two points is directly proportional to the voltage across the two points. Introducing the constant of proportionality, the resistance [1](https://en.wikipedia.org/wiki/Ohm%27s_law). 
 
+$$
 V = IR
+$$
+$$
 I = V/R
+$$
+$$math
 R = V/I
+here$$
 
 Where I is the current
 Where V is the Voltage

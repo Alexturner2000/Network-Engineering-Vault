@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Work in progress/Joule's law.md",
+                "file": "03 - Work in progress/Ohms Law.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/Joule's law.md",
+                "file": "03 - Work in progress/Ohms Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/Joule's law.md",
+                "file": "03 - Work in progress/Ohms Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/Joule's law.md"
+                "file": "03 - Work in progress/Ohms Law.md"
               }
             }
           }
@@ -163,6 +163,10 @@
   },
   "active": "4aa415b22417abe1",
   "lastOpenFiles": [
+    "03 - Work in progress/PoE.md",
+    "03 - Work in progress/Ohms Law.md",
+    "02 - Tags/Electromagnetism.md",
+    "03 - Work in progress/Joule's law.md",
     "03 - Work in progress/DC.md",
     "09 - Misc/Images/Graphview preview.png",
     "03 - Work in progress/Current.md",
@@ -172,7 +176,6 @@
     "README.md.md",
     "03 - Tags/Electical.md",
     "02 - Tags/Math.md",
-    "03 - Work in progress/Ohms Law.md",
     "02 - Tags/WAN.md",
     "03 - Work in progress/Wide Area Network.md",
     "02 - Tags/Network.md",
@@ -183,9 +186,7 @@
     "02 - Tags/Topology.md",
     "02 - Tags/Electrical.md",
     "02 - Tags",
-    "03 - Work in progress/PoE.md",
     "03 - Work in progress/Ethernet.md",
-    "03 - Work in progress/Joule's law.md",
     "01 - Main Notes/Local Area Network.md",
     "01 - Main Notes",
     "09 - Misc/Images/Excalidraw",
