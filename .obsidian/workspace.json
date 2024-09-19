@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Work in progress/DC.md",
+                "file": "03 - Work in progress/PoE.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "4aa415b22417abe1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 - Work in progress/PoE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 - Work in progress/PoE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03 - Work in progress/PoE.md"
+              }
             }
           }
         ]
@@ -153,15 +148,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4aa415b22417abe1",
+  "active": "e84fbd39e6780a78",
   "lastOpenFiles": [
-    "03 - Work in progress/Ohms Law.md",
+    "02 - Tags/Wide Area Network.md",
     "03 - Work in progress/PoE.md",
+    "03 - Work in progress/Ohms Law.md",
+    "03 - Work in progress/Ethernet.md",
+    "03 - Work in progress/Current.md",
+    "03 - Work in progress/DC.md",
     "02 - Tags/Electromagnetism.md",
     "03 - Work in progress/Joule's law.md",
-    "03 - Work in progress/DC.md",
     "09 - Misc/Images/Graphview preview.png",
-    "03 - Work in progress/Current.md",
     "README.md",
     "01 - Main Notes/UTP.md",
     "How I use.md",
@@ -169,7 +166,6 @@
     "03 - Tags/Electical.md",
     "02 - Tags/Math.md",
     "02 - Tags/WAN.md",
-    "03 - Work in progress/Wide Area Network.md",
     "02 - Tags/Network.md",
     "02 - Tags/Layer 1.md",
     "Objective.md",
@@ -178,7 +174,6 @@
     "02 - Tags/Topology.md",
     "02 - Tags/Electrical.md",
     "02 - Tags",
-    "03 - Work in progress/Ethernet.md",
     "01 - Main Notes/Local Area Network.md",
     "01 - Main Notes",
     "09 - Misc/Images/Excalidraw",
