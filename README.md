@@ -7,4 +7,4 @@ What's cooler than making a notes network for networking?!
 [[How I use]]
 [[Objective]]
 
-[![Graph Preview](https://github.com/Alexturner2000/Network-Engineering-Vault/blob/main/09 - Misc/Images/Graphview preview.png)](https://github.com/Alexturner2000/Network-Engineering-Vault/blob/main/09%20-%20Misc/Images/Graphview%20preview.png?raw=true)
+![obsidian graph](https://github.com/Alexturner2000/Network-Engineering-Vault/blob/caca4726a678572fc504e82e47fa82a822936d2f/09%20-%20Misc/Images/Graphview%20preview.png)
