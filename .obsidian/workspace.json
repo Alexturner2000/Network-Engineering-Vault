@@ -23,8 +23,10 @@
             "id": "4aa415b22417abe1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "09 - Misc/Images/Graphview preview.png"
+              }
             }
           }
         ],
@@ -94,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "09 - Misc/Images/Graphview preview.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "09 - Misc/Images/Graphview preview.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "09 - Misc/Images/Graphview preview.png"
+              }
             }
           }
         ]
@@ -153,7 +159,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a318511a019e54fd",
+  "active": "4aa415b22417abe1",
   "lastOpenFiles": [
     "09 - Misc/Images/Graphview preview.png",
     "03 - Work in progress/Current.md",
