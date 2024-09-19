@@ -2,7 +2,7 @@
 tags: [[Electrical]], [[DC]], [[AC]], [[Electromagnetism]], [[Joule Heating]]
 
 ## Direct Current (DC)
-$math P = I^2 R here$
+$$mathhere P = I^2 R$$
 
 P = I (VA - VB)
 
