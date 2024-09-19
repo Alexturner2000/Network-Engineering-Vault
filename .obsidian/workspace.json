@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Work in progress/DC.md",
+                "file": "03 - Work in progress/DC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4aa415b22417abe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Work in progress/DC.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Work in progress/DC.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Work in progress/DC.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -148,28 +161,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e84fbd39e6780a78",
+  "active": "4aa415b22417abe1",
   "lastOpenFiles": [
-    "02 - Work in progress/Current.md",
+    "03 - Work in progress/DC.md",
+    "Untitled.md",
+    "03 - Work in progress/Current.md",
     "03 - Tags/Electical.md",
-    "02 - Work in progress/DC.md",
-    "03 - Tags/Math.md",
-    "02 - Work in progress/Ohms Law.md",
-    "03 - Tags/WAN.md",
-    "02 - Work in progress/Wide Area Network.md",
-    "03 - Tags/Network.md",
-    "03 - Tags/Layer 1.md",
+    "02 - Tags/Math.md",
+    "03 - Work in progress/Ohms Law.md",
+    "02 - Tags/WAN.md",
+    "03 - Work in progress/Wide Area Network.md",
+    "02 - Tags/Network.md",
+    "02 - Tags/Layer 1.md",
     "How to use.md",
     "Objective.md",
     "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
     "09 - Misc/Images/Straight Through Wiring Scheme.png",
-    "03 - Tags/Topology.md",
-    "03 - Tags/Electrical.md",
-    "03 - Tags",
-    "02 - Work in progress/PoE.md",
+    "02 - Tags/Topology.md",
+    "02 - Tags/Electrical.md",
+    "02 - Tags",
+    "03 - Work in progress/PoE.md",
     "01 - Main Notes/UTP.md",
-    "02 - Work in progress/Ethernet.md",
-    "02 - Work in progress/Joule's law.md",
+    "03 - Work in progress/Ethernet.md",
+    "03 - Work in progress/Joule's law.md",
     "01 - Main Notes/Local Area Network.md",
     "01 - Main Notes",
     "09 - Misc/Images/Excalidraw",
