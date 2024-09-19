@@ -7,9 +7,9 @@ $V = IR$
 $I = V/R$
 $R = V/I$
 
-Where I is the current
-Where V is the Voltage
-Where R is the Resistance
+Where $I$ is the current
+Where $V$ is the Voltage
+Where $R$ is the Resistance
 
 ### Voltage
 The electrical potential difference. Its the pressure that pushes the charge through the circuit. How far can one electron jump from valence to valence.
@@ -22,7 +22,7 @@ Resistance opposes the flow of electrons. This could be rubber or a resistor.
 
 #### Resistance Units
 To find the total resistance of all components, add the reciprocals of R in sum
-R = (1/R1 + 1/R2 + 1/R3 + ... + 1/Rn)^-1
+$R = (1/R1 + 1/R2 + 1/R3 + ... + 1/Rn)^{-1$
 
 ---
 
