@@ -4,5 +4,5 @@ Just a work-in-progress vault used to take notes related to network engineering.
 What's cooler than making a notes network for networking?!
 
 # Quick links:
-[[How to use]]
+[[How I use]]
 [[Objective]]
