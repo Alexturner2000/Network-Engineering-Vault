@@ -8,7 +8,7 @@ P = I (VA - VB)
 - I is the current travelling through the resistor or other element
 - VA - VB is the voltage drop access the element
 $$
-X_k
+X_k = \frac{1}/{2}
 $$
 ## Alternating Current (AC)
 P(t) = U(t)I(t)
