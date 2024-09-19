@@ -39,7 +39,10 @@ If your equiptement has different power compatibility, you can use a PoE Splitte
 
 Center Trapped Transformers
 
-Lets say your transfering data at a rate of 125MHz or 1,250,000Hz. This input is applied to two transformers. Additionally, 48V is applied between the two transformers. 
+
+
+Explaination of the illistration:
+For power transmission to work, there needs to be a copper pair. In the top right, we have a data transfer rate of 125MHz AC with a Vmax of 125MV and current of -230kA. This runs into the center Trapped Transformer, aswell as our PoE power source, which is 48V and 48mA. 
 
 [Illistration](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAsCmC0YCYQDYCcA6AzJSZMFYwAGSbMZfEfIqqJfOMMAKADcRZMEaFIbPu4AOzIQNCImpFp02jXnp8zPqIS8oADhAINWxFoUyCY9KjMn8AHQAORRQC4ImDk0ipCpoqhwUNmIkIuYG4e7kI++H4BHPjoyBqkuLrIRBqpRAiMkCDKRKrqYCLautr4oobSxnZmqBY2dviOIM6wdhka+KhpQkKYmLp8-SZEYN4jqGrIyP4jIoHwcWO+3tQaKQFwCBC5ogI0kFqwCGXgOmLDlZTV5mD2DfWKzRwIM2Aapn0aqMg4OEiu7jAnm8kF8-kCANC+HCoMi-i0Ow4XHERSOJ2O5QuRCqphud0UD0oLTaXm4AWhBE6iHc5XQ7U63V6-QS2KElFadNGfFGk2m0kKyECbCRgiYSD2mnOEmOMhkpyksvOCiUAHdnicxSBvuBEGJmGq0aIDiA0pKiPqOKaBdoCkVzQbtbweOonXrrMUtMadHpdRB5Mx3d7hKoSq6-Xr2LA+DwTlHZFwlVB9gYlYoLXGY7sMaVyuns9nDdpUnqDdnTYWE-b1aIExnmkhzQBzDjRnMt2QIIQNks27KmtTZSsWgf15oJUdVkfcLRTk6Tl0nfrZbPmgBOY8HSCXbfEMgt2s1I81VdNXvUxqrsCtqOz1svjr41e0j-NAHtaD8pWpUOJeDVdAg6DEEQ1DxFi4bOES4D+u+NCfr+CA-lAuI1PgOh8NwnYNnS-LgE8NDOEwervmoKDZPsXhaN8OGylsbIHJ04HaMxpGYMwQA)
 
