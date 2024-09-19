@@ -11,8 +11,12 @@
             "id": "e84fbd39e6780a78",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 - Work in progress/Ethernet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Work in progress/Ethernet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Work in progress/Ethernet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Work in progress/Ethernet.md"
+              }
             }
           }
         ]
@@ -142,6 +150,11 @@
   },
   "active": "e84fbd39e6780a78",
   "lastOpenFiles": [
+    "02 - Work in progress/Ethernet.md",
+    "02 - Work in progress/Ohms Law.md",
+    "02 - Work in progress/Joule's law.md",
+    "02 - Work in progress/DC.md",
+    "02 - Work in progress/Current.md",
     "02 - Work in progress/PoE.md",
     "01 - Main Notes/Local Area Network.md",
     "02 - Work in progress/Wide Area Network.md",
