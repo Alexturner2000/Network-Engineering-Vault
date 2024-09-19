@@ -2,9 +2,8 @@
 tags: [[Electrical]], [[DC]], [[AC]], [[Electromagnetism]], [[Joule Heating]]
 
 ## Direct Current (DC)
-$$$
-ad P = I^2 R sda
-$$$
+
+P = I^2 R sda
 
 P = I (VA - VB)
 
