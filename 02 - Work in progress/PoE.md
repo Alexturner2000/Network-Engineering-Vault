@@ -19,7 +19,7 @@ Early versions of PoE only used the 2 unused data pairs, while later versions ut
 It runs using [[DC]] power (commonly 48V). 
 
 ### Active PoE
-When connected to an end device, PoE determins the power compatibiltiy and comunitcate with the device to determin the correct amount of power to transmit.
+When connected to an end device, PoE determines the power compatibility and communicate with the device to determine the correct amount of power to transmit.
 
 ### Passive PoE
 Sends a constant power to the end device without any sort of negotiation
@@ -27,13 +27,13 @@ Sends a constant power to the end device without any sort of negotiation
 2003 - 802.3af - Type 1 - 15.4 Watts - PoE
 2009 - 802.3at - Type 2 - 30 Watts - PoE+
 2011- 802.3bt - Type 3 - 60 Watts - 4PPoE (4 pair power over ethernet)
-2018 - 802.3bt (ammended) - Type 4 - 90 Watts - PoE++
+2018 - 802.3bt (amended) - Type 4 - 90 Watts - PoE++
 
 ### PoE Injector
 A wall outlet device that inject the DC current into the ethernet cable
 
 ### PoE Splitter
-If your equiptement has different power compatibility, you can use a PoE Splitter. This allows you to manually configure the output voltage.
+If your equipment has different power compatibility, you can use a PoE Splitter. This allows you to manually configure the output voltage.
 
 ---
 
@@ -41,8 +41,8 @@ Center Trapped Transformers
 
 
 
-Explaination of the illistration:
-For power transmission to work, there needs to be a copper pair. In the top right, we have a data transfer rate of 125MHz AC with a Vmax of 125MV and current of -230kA. This runs into the center Trapped Transformer, aswell as our PoE power source, which is 48V and 48mA. 
+Explanation of the illustration:
+For power transmission to work, there needs to be a copper pair. In the top right, we have a data transfer rate of 125MHz AC with a Vmax of 125MV and current of -230kA. This runs into the center Trapped Transformer, as well as our PoE power source, which is 48V and 48mA. 
 
 [Illistration](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAsCmC0YCYQDYCcA6AzJSZMFYwAGSbMZfEfIqqJfOMMAKADcRZMEaFIbPu4AOzIQNCImpFp02jXnp8zPqIS8oADhAINWxFoUyCY9KjMn8AHQAORRQC4ImDk0ipCpoqhwUNmIkIuYG4e7kI++H4BHPjoyBqkuLrIRBqpRAiMkCDKRKrqYCLautr4oobSxnZmqBY2dviOIM6wdhka+KhpQkKYmLp8-SZEYN4jqGrIyP4jIoHwcWO+3tQaKQFwCBC5ogI0kFqwCGXgOmLDlZTV5mD2DfWKzRwIM2Aapn0aqMg4OEiu7jAnm8kF8-kCANC+HCoMi-i0Ow4XHERSOJ2O5QuRCqphud0UD0oLTaXm4AWhBE6iHc5XQ7U63V6-QS2KElFadNGfFGk2m0kKyECbCRgiYSD2mnOEmOMhkpyksvOCiUAHdnicxSBvuBEGJmGq0aIDiA0pKiPqOKaBdoCkVzQbtbweOonXrrMUtMadHpdRB5Mx3d7hKoSq6-Xr2LA+DwTlHZFwlVB9gYlYoLXGY7sMaVyuns9nDdpUnqDdnTYWE-b1aIExnmkhzQBzDjRnMt2QIIQNks27KmtTZSsWgf15oJUdVkfcLRTk6Tl0nfrZbPmgBOY8HSCXbfEMgt2s1I81VdNXvUxqrsCtqOz1svjr41e0j-NAHtaD8pWpUOJeDVdAg6DEEQ1DxFi4bOES4D+u+NCfr+CA-lAuI1PgOh8NwnYNnS-LgE8NDOEwervmoKDZPsXhaN8OGylsbIHJ04HaMxpGYMwQA)
 
