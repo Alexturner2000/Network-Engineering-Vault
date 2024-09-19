@@ -19,3 +19,11 @@ THe current is the flow of electrical charge through the conductor. Current is l
 
 ### Resistance
 Resistance opposes the flow of electrons. This could be rubber or a resistor.
+
+#### Resistance Units
+To find the total resistance of all componenets, add the reciprocals of R in sum
+R = (1/R1 + 1/R2 + 1/R3 + ... + 1/Rn)^-1
+
+---
+
+There are other additional factors that may cause changes to the resistance. [[Joule Heating]] or Ohmic Heating occurs when the tempurature of the conductor affects the electic current through a conductor. The calculation is known as [[Joule's law]].
