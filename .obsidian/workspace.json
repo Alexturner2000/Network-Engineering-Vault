@@ -11,9 +11,11 @@
             "id": "e84fbd39e6780a78",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "09 - Misc/Images/Crossover Cable Wiring Scheme.png"
+                "file": "How to use.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
+                "file": "How to use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
+                "file": "How to use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 - Misc/Images/Crossover Cable Wiring Scheme.png"
+                "file": "How to use.md"
               }
             }
           }
@@ -146,10 +148,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a318511a019e54fd",
+  "active": "e84fbd39e6780a78",
   "lastOpenFiles": [
-    "09 - Misc/Images/Straight Through Wiring Scheme.png",
     "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
+    "09 - Misc/Images/Straight Through Wiring Scheme.png",
     "03 - Tags/Topology.md",
     "02 - Work in progress/Wide Area Network.md",
     "03 - Tags/Electrical.md",
