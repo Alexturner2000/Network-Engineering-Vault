@@ -3,7 +3,9 @@ tags: [[Electrical]], [[DC]], [[AC]], [[Electromagnetism]], [[Joule Heating]]
 
 ## Direct Current (DC)
 
+$$
 P = I^2 R sda
+$$
 
 P = I (VA - VB)
 
