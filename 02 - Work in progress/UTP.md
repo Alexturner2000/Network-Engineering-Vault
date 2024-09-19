@@ -11,3 +11,10 @@
 | Cat6         | 10 Gbps   | 100m        |
 | Cat6a        | 10 Gbps   | 100m        |
 | Cat7         | 10 Gbps   | 100m        |
+
+
+
+
+
+
+![[Pasted image 20240919164516.png]]
