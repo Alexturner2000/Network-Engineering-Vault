@@ -6,3 +6,5 @@ What's cooler than making a notes network for networking?!
 # Quick links:
 [[How I use]]
 [[Objective]]
+
+'Graphview preview.png'
