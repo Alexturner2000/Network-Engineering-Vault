@@ -7,4 +7,4 @@ What's cooler than making a notes network for networking?!
 [[How I use]]
 [[Objective]]
 
-'Graphview preview.png'
+![Graphview preview.png](obsidian graph)
