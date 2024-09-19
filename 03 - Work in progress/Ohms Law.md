@@ -22,7 +22,7 @@ Resistance opposes the flow of electrons. This could be rubber or a resistor.
 
 #### Resistance Units
 To find the total resistance of all components, add the reciprocals of R in sum
-$R = (\frac{1}{R1} + \frac{1}{R2} + \frac{1}{R3} + ... + \frac{1}{Rn})^{-1}$
+$$R = (\frac{1}{R1} + \frac{1}{R2} + \frac{1}{R3} + ... + \frac{1}{Rn})^{-1}$$
 
 ---
 
