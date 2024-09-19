@@ -3,6 +3,7 @@ tags: [[Electrical]], [[DC]], [[AC]], [[Electromagnetism]], [[Joule Heating]]
 
 ## Direct Current (DC)
 P = I (VA - VB)
+
 - P is the Power (energy pre time) converted from electrical energy to thermal energy
 - I is the current travelling through the resistor or other element
 - VA - VB is the voltage drop accress the element
