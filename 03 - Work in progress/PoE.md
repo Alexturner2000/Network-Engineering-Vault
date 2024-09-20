@@ -24,6 +24,7 @@ When connected to an end device, PoE determines the power compatibility and comm
 ### Passive PoE
 Sends a constant power to the end device without any sort of negotiation
 
+## IEEE Standards
 2003 - 802.3af - Type 1 - 15.4 Watts - PoE
 2009 - 802.3at - Type 2 - 30 Watts - PoE+
 2011- 802.3bt - Type 3 - 60 Watts - 4PPoE (4 pair power over ethernet)
