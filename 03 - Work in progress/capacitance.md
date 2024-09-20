@@ -1,5 +1,5 @@
 # Capacitance
-Tags: [[Electrical]],  [[Attenuation]], [[Measurement]]
+Tags: [[Electrical]],  [[Attenuation]]
 
 The capacitance $C$ of a capacitor is a measure of its ability to store electric charge for a given potential difference (voltage). The capacitance depends on the geometry of the capacitor and the materials used in it. Below are the most common capacitance equations for different types of capacitors.
 

@@ -2,7 +2,7 @@
 Tags: [[Attenuation]], [[Measurement]], [[Capacitance]], [[Electrical]]
 
 Symbol: $F$
-Definition: The measure of capacitance. How much charge a capacitor can store per volt of electrical potential
+Definition: The unit for measure of capacitance. How much charge a capacitor can store per volt of electrical potential
 Basic Equation:
 $$C = \epsilon_0 \cdot \epsilon_r \cdot \frac{A}{d}$$
 $C$ is Capacitance in *Farads* $F$
