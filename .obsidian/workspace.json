@@ -20,6 +20,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "11248add6505e43d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a68103b355158816",
+            "type": "leaf",
+            "state": {
+              "type": "tags-routes",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +163,7 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "c16f2348fe23c9fc",
+  "active": "a68103b355158816",
   "lastOpenFiles": [
     "03 - Work in progress/Ohms Law.md",
     "03 - Work in progress/Ohms.md",
