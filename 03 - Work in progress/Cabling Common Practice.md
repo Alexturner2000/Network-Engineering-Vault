@@ -1,5 +1,5 @@
 # Cabling Common Practice
-Tags: [[Ethernet]] [[Network]] [[Layer 1]] [[]]
+Tags: [[Ethernet]] [[Network]] [[Layer 1]] [[Topology]] [[UTP]] [[Topology]]
 
 ## Colouring
 RED - Uplink

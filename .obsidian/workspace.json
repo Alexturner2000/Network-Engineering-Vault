@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Work in progress/Cabling Common Practice.md",
+                "file": "03 - Work in progress/Current.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/Cabling Common Practice.md",
+                "file": "03 - Work in progress/Current.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/Cabling Common Practice.md",
+                "file": "03 - Work in progress/Current.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/Cabling Common Practice.md"
+                "file": "03 - Work in progress/Current.md"
               }
             }
           }
@@ -164,25 +164,25 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "graph:Open graph view": false
     }
   },
   "active": "1aab0d1c5a97a119",
   "lastOpenFiles": [
-    "09 - Misc/Images/Excalidraw/patchpannel.excalidraw.md",
     "03 - Work in progress/Cabling Common Practice.md",
-    "03 - Work in progress/Ethernet.md",
-    "03 - Work in progress/DC.md",
-    "03 - Work in progress/Current.md",
     "03 - Work in progress/Data.md",
+    "03 - Work in progress/Ethernet.md",
     "03 - Work in progress/PoE.md",
     "03 - Work in progress/Ohms Law.md",
+    "09 - Misc/Images/Excalidraw/patchpannel.excalidraw.md",
+    "03 - Work in progress/DC.md",
+    "03 - Work in progress/Current.md",
     "03 - Work in progress/Joule's law.md",
     "01 - Main Notes/UTP.md",
     "02 - Tags/Joule Heating.md",
