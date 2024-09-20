@@ -12,7 +12,7 @@ PoE sends [[DC]] power, whereas data is using [[AC]] power.
 ### Active PoE
 When connected to an end device, PoE determines the power compatibility and communicates with the device to determine the correct amount of power to transmit. It then uses Phantom Powering to send power overtop of the data.
 ### Passive PoE
-Simplest form of PoE. Certain copper pairs are reserved for only Power and only data. There is NO phantom powering.
+Simplest form of PoE. Certain copper pairs are reserved for only Power and only data. There is NO phantom powering. *This is not part of any of the IEEE standards*. It may be confusing because in 802.3af mode
 
 ## IEEE Standards
 
