@@ -5,7 +5,7 @@ Ohm's law states that the electric current through a conductor between two point
 
 $V = IR$
 $I = \frac{V}{R}$
-$R = V/I$
+$R = \frac{V}{I}$
 
 Where $I$ is the current
 Where $V$ is the Voltage
@@ -13,10 +13,8 @@ Where $R$ is the Resistance
 
 ### Voltage
 The electrical potential difference. Its the pressure that pushes the charge through the circuit. How far can one electron jump from valence to valence.
-
 ### Current
 The current is the flow of electrical charge through the conductor. Current is like the amount of electrons flowing from one point to the other.
-
 ### Resistance
 Resistance opposes the flow of electrons. This could be rubber or a resistor.
 
