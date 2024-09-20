@@ -6,6 +6,7 @@ The capacitance $C$ of a capacitor is a measure of its ability to store electric
 Capacitance varies also in the shape of the capacitor.
 
 #### Capacitance of a parallel Plate Capacitor
+Would be the capacity type of a Cat cable
 $$C = \epsilon_0 \cdot \epsilon_r \cdot \frac{A}{d}$$
 
 #### Capacitance of a Cylindrical Plate Capacitor
