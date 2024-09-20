@@ -151,5 +151,17 @@
     "searchModalRange": "recent",
     "searchModalDvQuery": ""
   },
-  "excludedFiles": []
+  "excludedFiles": [
+    "How to Vault.md",
+    "03 - Work in progress/Remote Site Planning.md",
+    "02 - Tags/Physics.md",
+    "02 - Tags/Measurement.md",
+    "02 - Tags/Attenuation.md",
+    "03 - Work in progress/Attenuation.md",
+    "01 - Main Notes/Henries.md",
+    "01 - Main Notes/Siemens.md",
+    "03 - Work in progress/Farads.md",
+    "03 - Work in progress/Capacitance.md",
+    "03 - Work in progress/Cat5e Capacitance Calculation.md"
+  ]
 }
