@@ -1,2 +1,4 @@
 # Attenuation
-$$ Attenuation (dB) = A(f) \multi L$$
+The reduction in signal stregth over a distance
+$$ Attenuation (dB) = A(f) × L$$
+$A(f)$
