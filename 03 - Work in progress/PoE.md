@@ -3,8 +3,6 @@ tags: [[PoE]], [[Ethernet]], [[Layer 1]], [[UTP]], [[Separate Signaling]], [[Ele
 
 Power over Ethernet protocol allows power to be sent over ethernet without hindering the maximum transfer rate of data. In order to understand the transfer of power, it is also crucial to understand how Unshielded Twitted Pair [[UTP]] works on [[Ethernet]]. Phantom Powering is the term used when allowing power to be sent over data wires if all four pairs are used. There are two modes, common mode, used for injecting power, and differential mode, which transfers data. In common mode, one wire in a pair is negative, and the other is positive. This makes the average voltage almost zero. PoE injects DC power equally into the pair, and because it is all injected equally, there is no affect with the data signals.
 
-### Why is power invisible to data
-
 Early versions of PoE only used the 2 unused data pairs, while later versions utilized all four
 
 1 - Data
@@ -26,12 +24,12 @@ Sends a constant power to the end device without any sort of negotiation
 
 ## IEEE Standards
 
-| Type   | IEEE Standard      | Year | Name  | Capacity   |
-| ------ | ------------------ | ---- | ----- | ---------- |
-| Type 1 | 802.3af            | 2003 | PoE   | 15.4 Watts |
-| Type 2 | 802.3at            | 2009 | PoE+  | 30 Watts   |
-| Type 3 | 802.3bt            | 2011 | 4PPoE | 60 Watts   |
-| Type 4 | 802.3bt (ammended) | 2018 | PoE++ | 90 Watts   |
+| Type   | IEEE Standard      | Year | Name  | Capacity   |                      |         |
+| ------ | ------------------ | ---- | ----- | ---------- | -------------------- | ------- |
+| Type 1 | 802.3af            | 2003 | PoE   | 15.4 Watts | Mode A Phantom Power | Mode B  |
+| Type 2 | 802.3at            | 2009 | PoE+  | 30 Watts   | Mode                 |         |
+| Type 3 | 802.3bt            | 2011 | 4PPoE | 60 Watts   |                      |         |
+| Type 4 | 802.3bt (ammended) | 2018 | PoE++ | 90 Watts   |                      |         |
 
 ## Other 
 ### PoE Injector
