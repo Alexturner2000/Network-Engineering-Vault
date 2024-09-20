@@ -1,6 +1,5 @@
 # Remote Site Planning
-Tags: [[Cabling Common Practice]] 
-
+Tags: [[Cabling Common Practice]] [[Ethernet]] [[Electrical]] 
 ## 1. Room Identification
 
 ## 2. Cooling
