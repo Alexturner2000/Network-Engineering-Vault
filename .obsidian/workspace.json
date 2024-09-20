@@ -35,7 +35,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +162,7 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "c16f2348fe23c9fc",
+  "active": "f0d62d7257844c58",
   "lastOpenFiles": [
     "09 - Misc/TagsRoutes/reports",
     "09 - Misc/TagsRoutes/logs",
