@@ -11,3 +11,4 @@ $\epsilon_r$ is Relative Permittivity of the material between plates (Dimensionl
 $A$ is the area of one of the plates (in square meters $m^2$)
 $d$ is the distance between the plates (in meters, $m$)
 
+## Capacitance
