@@ -1,5 +1,5 @@
 # Farads
-Tags: [[Attenuation]], [[Measurement]], [[Capacitance]]
+Tags: [[Attenuation]], [[Measurement]], [[Capacitance]], [[Electrical]]
 
 Symbol: $F$
 Definition: The measure of capacitance. How much charge a capacitor can store per volt of electrical potential
