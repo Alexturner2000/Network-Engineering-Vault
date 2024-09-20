@@ -1,5 +1,5 @@
 # Siemens
-Tags:
+Tags: [[Attenuation]], [[Measurement]]
 
 Symbol: $S$
-D
+Definition: The measure of conducatnacec that a meti
