@@ -21,7 +21,5 @@ Resistance opposes the flow of electrons. This could be rubber or a resistor.
 #### Resistance Units
 To find the total resistance of all components, add the reciprocals of R in sum
 $$R = (\frac{1}{R1} + \frac{1}{R2} + \frac{1}{R3} + ... + \frac{1}{Rn})^{-1}$$
-
----
-
-There are other additional factors that may cause changes to the resistance. [[Joule Heating]] or Ohmic Heating occurs when the temperature of the conductor affects the electric current through a conductor. The calculation is known as [[Joule's law]].
+#### Other Factors
+There are other additional factors that may cause changes to the resistance. [[Joule Heating]] or 'Ohmic Heating' occurs when the temperature of the conductor affects the electric current through a conductor. The calculation is known as [[Joule's law]].
