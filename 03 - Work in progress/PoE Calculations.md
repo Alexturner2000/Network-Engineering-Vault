@@ -10,3 +10,4 @@ We know frequency for Cat5e is 100MHz
 $$Attenuation (dB) = A(f) × L = 24dB(for 100 MHz, Cat5e) × 1 = 24dB$$
 ---
 ## Attenuation Coefficient
+Unless given the attenuation coefficient, the 
