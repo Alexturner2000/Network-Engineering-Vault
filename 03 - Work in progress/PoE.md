@@ -7,7 +7,7 @@ When using **Phantom Powering**, there are two signalling modes:
 1. **Common mode** - Same voltage applied to both pairs making the signal identical in amplitude and phase
 2. **Differential mode** - The signal is transmitted as a difference between the voltages on the two conductors. 
 
-PoE sends [[DC]] power, whereas data is using [[AC]] power. 
+PoE sends [[DC]] power, whereas data is using [[AC]] signals. 
 
 ### Active PoE
 When connected to an end device, PoE determines the power compatibility and communicates with the device to determine the correct amount of power to transmit. It then uses Phantom Powering to send power overtop of the data.
