@@ -11,4 +11,4 @@ What's cooler than making a notes network for networking?!
 
 # Plugins
 - Excalidraw
-- LaTeX 
+- LaTeX-like Theorem and equation Reference
