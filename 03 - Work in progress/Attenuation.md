@@ -3,8 +3,8 @@ Tags: [[Attenuation Coefficient]], [[Electrical]], [[PoE]], [[Physics]], [[UTP]]
 
 The reduction in signal strength over a distance
 
-## Calculate using Input ou
-
+## Calculate using Input Output
+$$A = 10 \cdot log_{10} (\frac{}) $$
 
 
 ## Calculate using Attenuation Coefficients
