@@ -26,23 +26,16 @@ Sends a constant power to the end device without any sort of negotiation
 
 ## IEEE Standards
 
-| Type   | IEEE Standard      | Year | Name  | Watt |
-| ------ | ------------------ | ---- | ----- | ---- |
-| Type 1 | 802.3af            | 2003 | PoE   |      |
-| Type 2 | 802.3at            | 2009 | PoE+  |      |
-| Type 3 | 802.3bt            | 2011 | 4PPoE |      |
-| Type 4 | 802.3bt (ammended) | 2018 | PoE++ |      |
+| Type   | IEEE Standard      | Year | Name  | Capacity   |
+| ------ | ------------------ | ---- | ----- | ---------- |
+| Type 1 | 802.3af            | 2003 | PoE   | 15.4 Watts |
+| Type 2 | 802.3at            | 2009 | PoE+  | 30 Watts   |
+| Type 3 | 802.3bt            | 2011 | 4PPoE | 60 Watts   |
+| Type 4 | 802.3bt (ammended) | 2018 | PoE++ | 90 Watts   |
 
-
-
-2003 - 802.3af - Type 1 - 15.4 Watts - PoE
-2009 - 802.3at - Type 2 - 30 Watts - PoE+
-2011- 802.3bt - Type 3 - 60 Watts - 4PPoE (4 pair power over ethernet)
-2018 - 802.3bt (amended) - Type 4 - 90 Watts - PoE++
-
+## Other 
 ### PoE Injector
 A wall outlet device that inject the DC current into the ethernet cable
-
 ### PoE Splitter
 If your equipment has different power compatibility, you can use a PoE Splitter. This allows you to manually configure the output voltage.
 
