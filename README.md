@@ -14,3 +14,4 @@ What's cooler than making a note-network for networking?!
 - Excalidraw
 - LaTeX-like Theorem and equation Reference
 - Mathbooster
+- Tags routes
