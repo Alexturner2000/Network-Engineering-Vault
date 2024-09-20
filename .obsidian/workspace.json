@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Work in progress/Attenuation.md",
+                "file": "01 - Main Notes/Farads.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/Attenuation.md",
+                "file": "01 - Main Notes/Farads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/Attenuation.md",
+                "file": "01 - Main Notes/Farads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/Attenuation.md"
+                "file": "01 - Main Notes/Farads.md"
               }
             }
           }
@@ -151,14 +151,15 @@
   },
   "active": "c16f2348fe23c9fc",
   "lastOpenFiles": [
+    "03 - Work in progress/Ohms Law.md",
+    "03 - Work in progress/Ohms.md",
+    "03 - Work in progress/Attenuation.md",
     "01 - Main Notes/Siemens.md",
     "01 - Main Notes/Henries.md",
-    "03 - Work in progress/Attenuation.md",
     "01 - Main Notes/Farads.md",
     "03 - Work in progress/Joule's law.md",
     "03 - Work in progress/Capacitance.md",
     "03 - Work in progress/Remote Site Planning.md",
-    "03 - Work in progress/Ohms Law.md",
     "03 - Work in progress/DC.md",
     "03 - Work in progress/Cat5e Capacitance Calculation.md",
     "03 - Work in progress/Data.md",
