@@ -1,5 +1,5 @@
 # Joule's Law
-tags: [[Electrical]], [[DC]], [[AC]], [[Electromagnetism]], [[Joule Heating]]
+tags: [[Electrical]], [[DC]], [[AC]], [[Electromagnetism]], [[Joule Heating]], [[Physics]]
 
 ## Direct Current (DC)
 

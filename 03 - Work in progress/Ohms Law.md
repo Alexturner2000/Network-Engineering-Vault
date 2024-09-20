@@ -1,5 +1,5 @@
 # Ohms Law
-tags: [[Electrical]], [[Math]], [[Current]],
+tags: [[Electrical]], [[Math]], [[Current]], [[Physics]]
 
 Ohm's law states that the electric current through a conductor between two points is directly proportional to the voltage across the two points. Introducing the constant of proportionality, the resistance [1](https://en.wikipedia.org/wiki/Ohm%27s_law). 
 

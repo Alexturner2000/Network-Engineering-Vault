@@ -1,5 +1,5 @@
 # Current
-tags: [[Electrical]], [[DC]]
+tags: [[Electrical]], [[DC]], [[Physics]]
 
 Current is the flow of electrons in a circuit. Conductive materials are a really good at carrying current because of the manipulation of outer valence electrons on conductors. For example, copper, which has a loosely bound electron in their outer valence shell, which is free to move around inside the metal. It moves super easy and in all directions.
 
