@@ -14,21 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "40a92efe3f859d9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Work in progress/Remote Site Planning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/Remote Site Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/Remote Site Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03 - Work in progress/Remote Site Planning.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,8 +141,9 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "40a92efe3f859d9d",
+  "active": "c16f2348fe23c9fc",
   "lastOpenFiles": [
+    "03 - Work in progress/Remote Site Planning.md",
     "03 - Work in progress/Ohms Law.md",
     "03 - Work in progress/Joule's law.md",
     "03 - Work in progress/Farads.md",
@@ -179,7 +163,6 @@
     "02 - Tags/Attenuation.md",
     "03 - Work in progress/PoE.md",
     "02 - Tags/Measurement.md",
-    "03 - Work in progress/Remote Site Planning.md",
     "02 - Tags/Physics.md",
     "02 - Tags/Math.md",
     "02 - Tags/Layer 1.md",
