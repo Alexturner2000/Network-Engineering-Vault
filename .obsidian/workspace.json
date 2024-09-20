@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd76c3c9b91921d5",
+        "id": "daedc130d45c8c5e",
         "type": "tabs",
         "children": [
           {
-            "id": "e84fbd39e6780a78",
+            "id": "6761670a3aec1819",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "03 - Work in progress/PoE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "03 - Work in progress/PoE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "03 - Work in progress/PoE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "03 - Work in progress/PoE.md"
               }
             }
           }
@@ -148,8 +148,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e84fbd39e6780a78",
+  "active": "6761670a3aec1819",
   "lastOpenFiles": [
+    "02 - Tags/Topology.md",
+    "README.md",
     "03 - Work in progress/PoE.md",
     "03 - Work in progress/Ohms Law.md",
     "03 - Work in progress/Current.md",
@@ -165,7 +167,6 @@
     "02 - Tags/Wide Area Network.md",
     "02 - Tags/Electromagnetism.md",
     "09 - Misc/Images/Graphview preview.png",
-    "README.md",
     "How I use.md",
     "README.md.md",
     "03 - Tags/Electical.md",
@@ -176,7 +177,6 @@
     "Objective.md",
     "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
     "09 - Misc/Images/Straight Through Wiring Scheme.png",
-    "02 - Tags/Topology.md",
     "02 - Tags",
     "01 - Main Notes",
     "09 - Misc/Images/Excalidraw",
