@@ -1,10 +1,12 @@
 # Power Over Ethernet (PoE)
 tags: [[PoE]], [[Ethernet]], [[Layer 1]], [[UTP]], [[Separate Signaling]], [[Electrical]]
 
-Power over Ethernet protocol allows power to be sent over ethernet without hindering the maximum transfer rate of data. Phantom Powering is the term used when power, as well as data pulses can be sent over the UTP cables. There are two modes, 
+Power over Ethernet allows power to be sent over ethernet without hindering the maximum transfer rate of data. Phantom Powering is the term used when power, as well as data pulses can be sent over the UTP cables. There are two modes, 
 1. common mode - used for injecting power
 2. differential mode - which transfers data. 
-Power in the ethernet cable is DC, whereas the data is being transfered in AC. The DC is injected into the coper cable with the use of Center Tapped Transformers, which allows both data and current to reach their de into the pair, and because it is all injected equally, there is no affect with the data signals. In order to understand the transfer of power, it is also crucial to understand how Unshielded Twitted Pair [[UTP]] works on [[Ethernet]]
+Power in the ethernet cable is DC, whereas the data is being transferred in AC. The DC is injected into the coper cable with the use of Center Tapped Transformers, which allows both data and current to reach their destination. 
+
+
 
 Early versions of PoE only used the 2 unused data pairs, while later versions utilized all four
 
