@@ -8,3 +8,7 @@ What's cooler than making a notes network for networking?!
 [[Objective]]
 
 ![obsidian graph](https://github.com/Alexturner2000/Network-Engineering-Vault/blob/caca4726a678572fc504e82e47fa82a822936d2f/09%20-%20Misc/Images/Graphview%20preview.png)
+
+# Plugins
+- Excalidraw
+- LaTeX 
