@@ -1,5 +1,5 @@
 # Siemens
-Tags: [[Attenuation]], [[Measurement]]
+Tags: [[02 - Tags/Attenuation]], [[Measurement]]
 
 Symbol: $S$
 Definition: The measure of conductance, which is the inverse of resistance

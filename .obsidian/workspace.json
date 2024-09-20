@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Tags/Attenuation.md",
+                "file": "03 - Work in progress/Attenuation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Tags/Attenuation.md",
+                "file": "03 - Work in progress/Attenuation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Tags/Attenuation.md",
+                "file": "03 - Work in progress/Attenuation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Tags/Attenuation.md"
+                "file": "03 - Work in progress/Attenuation.md"
               }
             }
           }
@@ -150,11 +150,11 @@
   },
   "active": "a318511a019e54fd",
   "lastOpenFiles": [
-    "Siemens.md",
-    "02 - Tags/Attenuation.md",
-    "02 - Tags/Measurement.md",
-    "03 - Work in progress/PoE Calculations.md",
     "03 - Work in progress/PoE.md",
+    "02 - Tags/Attenuation.md",
+    "Siemens.md",
+    "02 - Tags/Measurement.md",
+    "03 - Work in progress/Attenuation.md",
     "03 - Work in progress/Ohms Law.md",
     "03 - Work in progress/Remote Site Planning.md",
     "03 - Work in progress/Current.md",
