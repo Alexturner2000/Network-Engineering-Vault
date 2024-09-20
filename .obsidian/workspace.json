@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Work in progress/Cabling Common Practice.md",
+                "file": "03 - Work in progress/Remote Site Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/Cabling Common Practice.md",
+                "file": "03 - Work in progress/Remote Site Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/Cabling Common Practice.md",
+                "file": "03 - Work in progress/Remote Site Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/Cabling Common Practice.md"
+                "file": "03 - Work in progress/Remote Site Planning.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "6761670a3aec1819",
   "lastOpenFiles": [
+    "03 - Work in progress/Cabling Common Practice.md",
     "03 - Work in progress/Current.md",
     "03 - Work in progress/Data.md",
     "03 - Work in progress/DC.md",
@@ -160,11 +161,10 @@
     "README.md",
     "How to Vault.md",
     "Objective.md",
-    "03 - Work in progress/Cabling Common Practice.md",
     "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
     "01 - Main Notes/UTP.md",
     "01 - Main Notes/Local Area Network.md",
-    "Remote Site Planning.md",
+    "03 - Work in progress/Remote Site Planning.md",
     "09 - Misc/Images/Excalidraw/patchpannel.excalidraw.md",
     "02 - Tags/Joule Heating.md",
     "02 - Tags/Topology.md",
