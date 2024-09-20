@@ -23,6 +23,7 @@ Sends a constant power to the end device without any sort of negotiation
 | Type 2 | 802.3at           | 2009 | PoE+  | 30 Watts   | All, A, B |
 | Type 3 | 802.3bt           | 2011 | 4PPoE | 60 Watts   | All       |
 | Type 4 | 802.3bt (amended) | 2018 | PoE++ | 90 Watts   | All       |
+|        |                   |      |       |            |           |
 
 ## Other 
 ### PoE Injector
