@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Work in progress/Ohms Law.md",
+                "file": "03 - Work in progress/Joule's law.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/Ohms Law.md",
+                "file": "03 - Work in progress/Joule's law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/Ohms Law.md",
+                "file": "03 - Work in progress/Joule's law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/Ohms Law.md"
+                "file": "03 - Work in progress/Joule's law.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "6761670a3aec1819",
   "lastOpenFiles": [
-    "03 - Work in progress/PoE.md",
     "03 - Work in progress/Ohms Law.md",
+    "03 - Work in progress/PoE.md",
     "03 - Work in progress/Joule's law.md",
     "03 - Work in progress/Ethernet.md",
     "02 - Tags/Joule Heating.md",
