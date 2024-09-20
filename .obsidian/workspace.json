@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Main Notes/Henries.md",
+                "file": "03 - Work in progress/Farads.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Work in progress/Siemens.md",
+                "file": "01 - Main Notes/Siemens.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Main Notes/Henries.md",
+                "file": "03 - Work in progress/Farads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Main Notes/Henries.md",
+                "file": "03 - Work in progress/Farads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Main Notes/Henries.md"
+                "file": "03 - Work in progress/Farads.md"
               }
             }
           }
@@ -173,19 +173,24 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a318511a019e54fd",
+  "active": "caa593bfb88cbd7e",
   "lastOpenFiles": [
-    "03 - Work in progress/Siemens.md",
-    "01 - Main Notes/Henries.md",
+    "01 - Main Notes/Siemens.md",
     "03 - Work in progress/Attenuation.md",
+    "03 - Work in progress/Farads.md",
+    "03 - Work in progress/Cabling Common Practice.md",
+    "03 - Work in progress/Current.md",
+    "03 - Work in progress/Data.md",
+    "03 - Work in progress/DC.md",
+    "03 - Work in progress/Ethernet.md",
+    "03 - Work in progress/Joule's law.md",
+    "03 - Work in progress/Ohms Law.md",
+    "01 - Main Notes/Henries.md",
     "02 - Tags/Attenuation.md",
     "03 - Work in progress/PoE.md",
     "02 - Tags/Measurement.md",
-    "03 - Work in progress/Ohms Law.md",
     "03 - Work in progress/Remote Site Planning.md",
-    "03 - Work in progress/Current.md",
     "02 - Tags/Physics.md",
-    "03 - Work in progress/Cabling Common Practice.md",
     "02 - Tags/Math.md",
     "02 - Tags/Layer 1.md",
     "02 - Tags/Joule Heating.md",
@@ -195,15 +200,10 @@
     "09 - Misc/Images/Straight Through Wiring Scheme.png",
     "09 - Misc/Images/Graphview preview.png",
     "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
-    "03 - Work in progress/Data.md",
-    "03 - Work in progress/DC.md",
-    "03 - Work in progress/Ethernet.md",
-    "03 - Work in progress/Joule's law.md",
     "README.md",
     "How to Vault.md",
     "Objective.md",
     "01 - Main Notes/UTP.md",
-    "01 - Main Notes/Local Area Network.md",
     "02 - Tags",
     "01 - Main Notes",
     "09 - Misc/Images/Excalidraw",
