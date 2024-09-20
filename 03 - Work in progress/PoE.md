@@ -35,7 +35,6 @@ If your equipment has different power compatibility, you can use a PoE Splitter.
 Center Trapped Transformers
 
 
-
 Explanation of the illustration:
 For power transmission to work, there needs to be a copper pair. In the top right, we have a data transfer rate of 125MHz AC with a Vmax of 125MV and current of -230kA. This runs into the center Trapped Transformer, as well as our PoE power source, which is 48V and 48mA. 
 
