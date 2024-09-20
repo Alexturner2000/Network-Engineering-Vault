@@ -4,8 +4,8 @@ tags: [[PoE]], [[Ethernet]], [[Layer 1]], [[UTP]], [[Separate Signaling]], [[Ele
 Power over Ethernet allows a power and data to be transferred simultaneously over an ethernet cable. It has two methods of sending power. **Phantom Powering** is the term used when power and data pulses can be sent over the same copper cable pair. There is also **Spare Pair Powering**, which sends power strictly over one pair, without data pulses. The data pulses will have their own individual cable pairs 
 
 When using **Phantom Powering**, there are two signalling modes:
-1. **Common mode** - Same voltage applied to both pairs
-2. **Differential mode** - The signal i
+1. **Common mode** - Same voltage applied to both pairs making th esingal identical in amplitude and phase
+2. **Differential mode** - The signal is transmitted as a difference between the voltages on the two conductors. 
 
 Power in the ethernet cable is DC, whereas the data is being transferred in AC. The DC is injected into the coper cable with the use of Center Tapped Transformers, which allows both data and current to reach their destination. 
 
