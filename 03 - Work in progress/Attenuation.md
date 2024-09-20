@@ -17,4 +17,5 @@ $Attenuation = A(f) × L$
 $Attenuation = 24dB × 1$ 
 $Attenuation = 24dB$
 
+The attenuation coefficient is already commonly known for Cat5e, but for a therough explanation on how its calculated see Attenuation Coeefficient tag
 ### 
