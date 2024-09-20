@@ -24,12 +24,12 @@ Sends a constant power to the end device without any sort of negotiation
 
 ## IEEE Standards
 
-| Type   | IEEE Standard      | Year | Name  | Capacity   | Modes     |
-| ------ | ------------------ | ---- | ----- | ---------- | --------- |
-| Type 1 | 802.3af            | 2003 | PoE   | 15.4 Watts | A, B, All |
-| Type 2 | 802.3at            | 2009 | PoE+  | 30 Watts   | A, B      |
-| Type 3 | 802.3bt            | 2011 | 4PPoE | 60 Watts   |           |
-| Type 4 | 802.3bt (ammended) | 2018 | PoE++ | 90 Watts   |           |
+| Type   | IEEE Standard     | Year | Name  | Capacity   | Modes     |
+| ------ | ----------------- | ---- | ----- | ---------- | --------- |
+| Type 1 | 802.3af           | 2003 | PoE   | 15.4 Watts | All, A, B |
+| Type 2 | 802.3at           | 2009 | PoE+  | 30 Watts   | All, A, B |
+| Type 3 | 802.3bt           | 2011 | 4PPoE | 60 Watts   | All       |
+| Type 4 | 802.3bt (amended) | 2018 | PoE++ | 90 Watts   | All       |
 
 ## Other 
 ### PoE Injector
