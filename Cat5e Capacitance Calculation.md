@@ -9,3 +9,7 @@ $$C = \epsilon_0 \cdot \epsilon_r \cdot \frac{A}{d}$$
 $A = \pi (\frac{d}{2})^2$
 $A = \pi (\frac{0.0005}{2})^2$
 $A = 1.963 \times 10^{-7}m^2$
+
+**Capacity Calculation**
+$C = \epsilon_0 \cdot \epsilon_r \cdot \frac{A}{d}$
+$C = \epsilon_0 \cdot \epsilon_r \cdot \frac{A}{d}$
