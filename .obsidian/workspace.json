@@ -16,6 +16,14 @@
             }
           },
           {
+            "id": "f0d62d7257844c58",
+            "type": "leaf",
+            "state": {
+              "type": "tags-routes",
+              "state": {}
+            }
+          },
+          {
             "id": "40a92efe3f859d9d",
             "type": "leaf",
             "state": {
@@ -27,7 +35,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,11 +158,15 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "tags-routes:Open tags routes": false
     }
   },
-  "active": "c16f2348fe23c9fc",
+  "active": "f0d62d7257844c58",
   "lastOpenFiles": [
+    "09 - Misc/TagsRoutes/reports",
+    "09 - Misc/TagsRoutes/logs",
+    "09 - Misc/TagsRoutes",
     "03 - Work in progress/Cat5e Capacitance Calculation.md",
     "03 - Work in progress/Capacitance.md",
     "03 - Work in progress/Farads.md",
@@ -182,7 +195,6 @@
     "09 - Misc/Images/Graphview preview.png",
     "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
     "README.md",
-    "How to Vault.md",
     "02 - Tags",
     "01 - Main Notes",
     "09 - Misc/Images/Excalidraw",
