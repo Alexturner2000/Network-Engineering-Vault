@@ -9,6 +9,6 @@ $$L = \mu_0 ⋅\mu_r ⋅\frac{N^2⋅A}{l}$$
 $L$ is inductance in *Siemens*
 $\mu_o$ is Permeability of free space constant $4\pi × 10^-7 H/m$
 $\mu_r$ is Relative Permeability of the core material ($1$ for air)
-$N$ is number of Coil rotations
+$N$ is Number of Coil turns
 $A$ is Cross-sectional area of coil (in square meters $m^2$)
-$l$ is
+$l$ is length of the Coil
