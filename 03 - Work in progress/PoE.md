@@ -1,7 +1,9 @@
 # Power Over Ethernet (PoE)
 tags: [[PoE]], [[Ethernet]], [[Layer 1]], [[UTP]], [[Separate Signaling]], [[Electrical]]
 
-Power over Ethernet allows a power source to be sent over ethernet concurrent with data. It has two methods of sending power. Phantom Powering is the term used when power, as well as data pulses can be sent over the same copper cable pair. There is also Spare Pairs, or mode B, which sends power stricktly over one pair, . There are two modes, 
+Power over Ethernet allows a power and data to be transferred concurrently on an ethernet cable. It has two methods of sending power. Phantom Powering is the term used when power, as well as data pulses can be sent over the same copper cable pair. There is also Spare Pairs, or mode B, which sends power strictly over one pair, without data being sent over the pair. 
+
+There are two modes, 
 1. common mode - used for injecting power
 2. differential mode - which transfers data. 
 Power in the ethernet cable is DC, whereas the data is being transferred in AC. The DC is injected into the coper cable with the use of Center Tapped Transformers, which allows both data and current to reach their destination. 
