@@ -3,6 +3,7 @@ tags: [[PoE]], [[Ethernet]], [[Layer 1]], [[UTP]], [[Separate Signaling]], [[Ele
 
 Power over Ethernet allows a power and data to be transferred simultaneously over an ethernet cable. It has two methods of sending power. **Phantom Powering** is the term used when power and data pulses can be sent over the same copper cable pair. There is also **Spare Pair Powering**, which sends power strictly over one pair, without data pulses. The data pulses will have their own individual cable pairs 
 
+When using **Pphantom Powering**, there are two signalling modes
 There are two modes, 
 1. common mode - used for injecting power
 2. differential mode - which transfers data. 
