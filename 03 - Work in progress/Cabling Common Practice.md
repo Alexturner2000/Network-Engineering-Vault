@@ -14,4 +14,6 @@ Coming in from multiple sides of the rack saves a significant amount of space an
 
 Patch panels directly above and below the switch are freaking amazing. However, life is not always candies and rainbows...
 
-![[09 - Misc/Images/Excalidraw/patchpannel.excalidraw]]\
+![[09 - Misc/Images/Excalidraw/patchpannel.excalidraw]]
+
+
