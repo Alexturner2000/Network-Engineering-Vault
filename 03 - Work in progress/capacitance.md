@@ -5,14 +5,14 @@ The capacitance $C$ of a capacitor is a measure of its ability to store electric
 
 Capacitance varies also in the shape of the capacitor.
 
-### Capacitance of a parallel Plate Capacitor
+#### Capacitance of a parallel Plate Capacitor
 $$C = \epsilon_0 \cdot \epsilon_r \cdot \frac{A}{d}$$
 
-### Capacitance of a Cylindrical Plate Capacitor
+#### Capacitance of a Cylindrical Plate Capacitor
 $$C = 2\pi \epsilon_0  \epsilon_r \cdot \frac{l}{ln \frac{b}{a}}$$
 
-### Capacitance of a Spherical Capacitor
+#### Capacitance of a Spherical Capacitor
 $$C = 4\pi \epsilon_0 \epsilon_r \cdot \frac{ab}{b-a}$$
 
-### Capacitance of a Coaxial Cable
-$$C = \frac{2\pi \epsilon_0 \epsilon_r} {ln\frac{b}{a}}$$
+#### Capacitance of a Coaxial Cable
+$$C' = \frac{2\pi \epsilon_0 \epsilon_r} {ln\frac{b}{a}}$$
