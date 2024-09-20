@@ -11,9 +11,11 @@
             "id": "6761670a3aec1819",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "09 - Misc/Images/Crossover Cable Wiring Scheme.png"
+                "file": "How I use.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
+                "file": "How I use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
+                "file": "How I use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 - Misc/Images/Crossover Cable Wiring Scheme.png"
+                "file": "How I use.md"
               }
             }
           }
@@ -148,18 +150,20 @@
   },
   "active": "6761670a3aec1819",
   "lastOpenFiles": [
+    "Objective.md",
+    "03 - Work in progress/Cabling Common Practice.md",
+    "03 - Work in progress/Current.md",
+    "03 - Work in progress/DC.md",
+    "03 - Work in progress/Ethernet.md",
+    "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
     "01 - Main Notes/UTP.md",
     "01 - Main Notes/Local Area Network.md",
     "README.md",
     "Remote Site Planning.md",
     "03 - Work in progress/PoE.md",
     "03 - Work in progress/Ohms Law.md",
-    "03 - Work in progress/Ethernet.md",
-    "03 - Work in progress/Cabling Common Practice.md",
-    "03 - Work in progress/Current.md",
     "03 - Work in progress/Data.md",
     "09 - Misc/Images/Excalidraw/patchpannel.excalidraw.md",
-    "03 - Work in progress/DC.md",
     "03 - Work in progress/Joule's law.md",
     "02 - Tags/Joule Heating.md",
     "02 - Tags/Topology.md",
@@ -174,8 +178,6 @@
     "03 - Tags/Electical.md",
     "02 - Tags/Math.md",
     "02 - Tags/WAN.md",
-    "02 - Tags/Network.md",
-    "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
     "09 - Misc/Images/Straight Through Wiring Scheme.png",
     "02 - Tags",
     "01 - Main Notes",
