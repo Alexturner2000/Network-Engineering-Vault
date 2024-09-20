@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "faad3054f8e5b8f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Work in progress/Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/Data.md",
+                "file": "03 - Work in progress/PoE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/Data.md",
+                "file": "03 - Work in progress/PoE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/Data.md"
+                "file": "03 - Work in progress/PoE.md"
               }
             }
           }
@@ -161,10 +148,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "faad3054f8e5b8f8",
+  "active": "e84fbd39e6780a78",
   "lastOpenFiles": [
-    "03 - Work in progress/PoE.md",
     "03 - Work in progress/Data.md",
+    "03 - Work in progress/PoE.md",
     "03 - Work in progress/Ohms Law.md",
     "02 - Tags/AC.md",
     "03 - Work in progress/DC.md",
