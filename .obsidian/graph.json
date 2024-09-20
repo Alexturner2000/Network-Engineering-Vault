@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "Electrical",
@@ -22,16 +22,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "nodeSizeMultiplier": 2.14166666666667,
+  "lineSizeMultiplier": 0.610416666666667,
+  "collapse-forces": false,
+  "centerStrength": 0.229166666666667,
+  "repelStrength": 13.3333333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2588386562181669,
+  "scale": 0.2588386562181676,
   "close": false
 }
