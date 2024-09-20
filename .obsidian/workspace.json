@@ -35,9 +35,11 @@
             "id": "1aab0d1c5a97a119",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-19 22.23.21.excalidraw.md"
+                "file": "03 - Work in progress/Cabling Common Practice.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-19 22.23.21.excalidraw.md",
+                "file": "03 - Work in progress/Cabling Common Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-19 22.23.21.excalidraw.md",
+                "file": "03 - Work in progress/Cabling Common Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-19 22.23.21.excalidraw.md"
+                "file": "03 - Work in progress/Cabling Common Practice.md"
               }
             }
           }
@@ -173,8 +175,8 @@
   },
   "active": "1aab0d1c5a97a119",
   "lastOpenFiles": [
+    "09 - Misc/Images/Excalidraw/patchpannel.excalidraw.md",
     "03 - Work in progress/Cabling Common Practice.md",
-    "09 - Misc/Images/Excalidraw/Drawing 2024-09-19 22.23.21.excalidraw.md",
     "03 - Work in progress/Ethernet.md",
     "03 - Work in progress/DC.md",
     "03 - Work in progress/Current.md",
