@@ -6,9 +6,9 @@ Definition: The measure of inductance, which describes the ability of a coil or 
 
 Inductance Calculation in Henries
 $$L = \mu_0 ⋅\mu_r ⋅\frac{N^2⋅A}{l}$$
-$L$ is conductance in *Siemens*
-$\mu_o$ is resistance in *Ohms* $\ohm$
+$L$ is inductance in *Siemens*
+$\mu_o$ is Permeability of free space in 
 $\mu_r$ is
 $N$ is
-$A$
-$l$
+$A$ is
+$l$ is
