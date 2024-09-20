@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Work in progress/Henries.md",
+                "file": "01 - Main Notes/Henries.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/Henries.md",
+                "file": "01 - Main Notes/Henries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/Henries.md",
+                "file": "01 - Main Notes/Henries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/Henries.md"
+                "file": "01 - Main Notes/Henries.md"
               }
             }
           }
@@ -173,12 +173,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "caa593bfb88cbd7e",
+  "active": "a318511a019e54fd",
   "lastOpenFiles": [
+    "03 - Work in progress/Siemens.md",
+    "01 - Main Notes/Henries.md",
     "03 - Work in progress/Attenuation.md",
     "02 - Tags/Attenuation.md",
-    "03 - Work in progress/Henries.md",
-    "03 - Work in progress/Siemens.md",
     "03 - Work in progress/PoE.md",
     "02 - Tags/Measurement.md",
     "03 - Work in progress/Ohms Law.md",
