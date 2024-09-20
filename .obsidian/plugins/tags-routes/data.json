@@ -2,18 +2,18 @@
   "saveSpecVer": 10100,
   "enableSave": true,
   "enableShow": true,
-  "currentSlotNum": 1,
+  "currentSlotNum": 2,
   "themeSlotNum": {
     "dark": 2,
     "light": 1
   },
   "openInCurrentTab": false,
-  "currentTheme": "light",
+  "currentTheme": "dark",
   "customSlot": null,
   "dark": [
     {
-      "node_size": 5,
-      "node_repulsion": 0,
+      "node_size": 2,
+      "node_repulsion": 1,
       "link_distance": 17,
       "link_width": 1,
       "link_particle_size": 2,
