@@ -11,7 +11,9 @@ $L$ is length in
 **Given**
 $f = 100MHz$ or $100,000,000Hz$
 
+**Calculation**
 $Attenuation = A(f) × L$ 
 $Attenuation = 24dB(for 100 MHz, Cat5e) × 1$ 
 $Attenuation = 24dB$
 
+### 
