@@ -27,15 +27,15 @@ Simplest form of PoE. Certain copper pairs are reserved for only Power and only 
 ## Power Classes
 
 
-| Class |     |
-| ----- | --- |
-| 0     |     |
-| 1     |     |
-| 2     |     |
-| 3     |     |
-| 4     |     |
-| 5     |     |
-| 6     |     |
+| Class       | Power      |
+| ----------- | ---------- |
+| 0 (default) | 15.4 Watts |
+| 1           | 4 Watts    |
+| 2           | 7 Watts    |
+| 3           | 15.4 Watts |
+| 4           | 30 Watts   |
+| 5           | 60 Watts   |
+| 6           | 90 Watts   |
 
 
 
