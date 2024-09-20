@@ -15,4 +15,4 @@ $$C = 2\pi \epsilon_0  \epsilon_r \cdot \frac{l}{ln \frac{b}{a}}$$
 $$C = 4\pi \epsilon_0 \epsilon_r \cdot \frac{ab}{b-a}$$
 
 ### Capacitance of a Coaxial Cable
-$$C = 2\pi \epsilon_0 \cdot \epsilon_r \cdot \frac{A}{d}$$
+$$C = \frac{2\pi \epsilon_0 \epsilon_r} {ln\frac{b}{a}}$$
