@@ -2,7 +2,7 @@
 Tags: [[Attenuation]], [[Measurement]]
 
 Symbol: $F$
-Definition: The measure of capacitance, which is the inverse of resistance
+Definition: The measure of capacitance. How much charge
 Equation:
 $$G = \frac{1}{R}$$
 $G$ is conductance in *Siemens*
