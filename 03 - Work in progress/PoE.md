@@ -1,7 +1,7 @@
 # Power Over Ethernet (PoE)
 tags: [[PoE]], [[Ethernet]], [[Layer 1]], [[UTP]], [[Separate Signaling]], [[Electrical]]
 
-Power over Ethernet allows a power and data to be transferred simultaneously over an ethernet cable. Much like sending data over cat3-cat7, PoE has a recommended maximum distance of 100m, or 328 feet before adding a PoE injector.
+Power over Ethernet allows a power and data to be transferred simultaneously over an ethernet cable. Much like sending data over cat3-cat7, PoE has a recommended maximum distance of 100m, or 328 feet before adding a PoE injector. Additionally, PoE should be deliver
 
 It has two methods of sending power. **Phantom Powering** is the term used when power and data pulses can be sent over the same copper cable pair. There is also **Spare Pair Powering**, which sends power strictly over one pair, without data pulses. The data pulses will have their own individual cable pairs 
 
