@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Work in progress/Capacitance.md",
+                "file": "Cat5e Capacitance Calculation.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/Capacitance.md",
+                "file": "Cat5e Capacitance Calculation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/Capacitance.md",
+                "file": "Cat5e Capacitance Calculation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/Capacitance.md"
+                "file": "Cat5e Capacitance Calculation.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "c16f2348fe23c9fc",
   "lastOpenFiles": [
-    "03 - Work in progress/Farads.md",
     "03 - Work in progress/Capacitance.md",
+    "Cat5e Capacitance Calculation.md",
+    "03 - Work in progress/Farads.md",
     "03 - Work in progress/Attenuation.md",
     "01 - Main Notes/Siemens.md",
     "03 - Work in progress/Cabling Common Practice.md",
@@ -190,7 +191,6 @@
     "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
     "README.md",
     "How to Vault.md",
-    "Objective.md",
     "02 - Tags",
     "01 - Main Notes",
     "09 - Misc/Images/Excalidraw",

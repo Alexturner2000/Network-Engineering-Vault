@@ -6,7 +6,7 @@ The capacitance $C$ of a capacitor is a measure of its ability to store electric
 Capacitance varies also in the shape of the capacitor.
 
 #### Capacitance of a parallel Plate Capacitor
-Would be the capacity type of a Cat5e cable. Each twisted pair of wires acts like two parallel plates with the insulation between them serving as the dielectric. Cat5e
+Would be the capacity type of a Cat5e cable. Each twisted pair of wires acts like two parallel plates with the insulation between them serving as the dielectric. [[Cat5e Capacitance Calculation]]
 $$C = \epsilon_0 \cdot \epsilon_r \cdot \frac{A}{d}$$
 
 #### Capacitance of a Cylindrical Plate Capacitor
