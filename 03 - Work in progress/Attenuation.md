@@ -1,7 +1,7 @@
 # Attenuation
 Tags: [[Attenuation Coefficient]], [[Electrical]], [[PoE]], [[Physics]], [[UTP]]
 
-The reduction in signal strength over a distance
+The reduction in signal strength over a distance.
 
 ## Calculate using Input Output
 $$Attenuation(dB) = 10 \cdot log_{10} (\frac{P_{in}}{P_{out}}) $$
