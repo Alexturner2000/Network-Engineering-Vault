@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Work in progress/PoE Calculations.md",
+                "file": "Siemens.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/PoE Calculations.md",
+                "file": "Siemens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/PoE Calculations.md",
+                "file": "Siemens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/PoE Calculations.md"
+                "file": "Siemens.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "6761670a3aec1819",
   "lastOpenFiles": [
-    "03 - Work in progress/PoE.md",
     "03 - Work in progress/PoE Calculations.md",
+    "Siemens.md",
+    "03 - Work in progress/PoE.md",
     "03 - Work in progress/Ohms Law.md",
     "03 - Work in progress/Remote Site Planning.md",
     "03 - Work in progress/Current.md",
@@ -178,7 +179,6 @@
     "09 - Misc/Images/Excalidraw/patchpannel.excalidraw.md",
     "02 - Tags/Topology.md",
     "02 - Tags/Separate Signaling.md",
-    "02 - Tags/Wide Area Network.md",
     "02 - Tags",
     "01 - Main Notes",
     "09 - Misc/Images/Excalidraw",
