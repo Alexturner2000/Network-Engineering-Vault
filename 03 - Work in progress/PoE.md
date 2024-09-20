@@ -24,6 +24,21 @@ Simplest form of PoE. Certain copper pairs are reserved for only Power and only 
 | Type 2 | 802.3at           | 2009 | PoE+  | 30 Watts   | All, A, B |
 | Type 3 | 802.3bt           | 2011 | 4PPoE | 60 Watts   | All       |
 | Type 4 | 802.3bt (amended) | 2018 | PoE++ | 90 Watts   | All       |
+## Power Classes
+
+
+| Class |     |
+| ----- | --- |
+| 0     |     |
+| 1     |     |
+| 2     |     |
+| 3     |     |
+| 4     |     |
+| 5     |     |
+| 6     |     |
+
+
+
 
 ## Other 
 ### PoE Injector
