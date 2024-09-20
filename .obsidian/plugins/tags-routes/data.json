@@ -13,49 +13,49 @@
   "dark": [
     {
       "node_size": 2,
-      "node_repulsion": 1,
+      "node_repulsion": 3,
       "link_distance": 17,
       "link_width": 1,
-      "link_particle_size": 2,
-      "link_particle_number": 2,
+      "link_particle_size": 3,
+      "link_particle_number": 1,
       "toggle_global_map": false,
       "toggle_label_display": false,
       "colorMap": {
         "markdown": {
-          "name": "default",
-          "value": "#00ff00"
+          "name": "theme",
+          "value": "#555e68"
         },
         "attachment": {
-          "name": "default",
-          "value": "#ffff00"
+          "name": "theme",
+          "value": "#bd8e37"
         },
         "broken": {
-          "name": "default",
-          "value": "#ff0000"
+          "name": "theme",
+          "value": "#a2aab3"
         },
         "excalidraw": {
           "name": "default",
           "value": "#00ffff"
         },
         "tag": {
-          "name": "default",
-          "value": "#ff00ff"
+          "name": "theme",
+          "value": "#0cb54f"
         },
         "nodeHighlightColor": {
-          "name": "default",
-          "value": "#3333ff"
+          "name": "theme",
+          "value": "#5893e7"
         },
         "nodeFocusColor": {
-          "name": "default",
-          "value": "#ff3333"
+          "name": "theme",
+          "value": "#4d8ce6"
         },
         "linkHighlightColor": {
-          "name": "default",
-          "value": "#ffffff"
+          "name": "theme",
+          "value": "#5893e7"
         },
         "linkNormalColor": {
-          "name": "default",
-          "value": "#ffffff"
+          "name": "theme",
+          "value": "#d4d4d4"
         },
         "linkParticleColor": {
           "name": "default",
@@ -132,50 +132,50 @@
       }
     },
     {
-      "node_size": 5,
-      "node_repulsion": 0,
+      "node_size": 2,
+      "node_repulsion": 3,
       "link_distance": 17,
       "link_width": 1,
-      "link_particle_size": 2,
-      "link_particle_number": 2,
+      "link_particle_size": 3,
+      "link_particle_number": 1,
       "toggle_global_map": false,
       "toggle_label_display": false,
       "colorMap": {
         "markdown": {
-          "name": "default",
-          "value": "#00ff00"
+          "name": "theme",
+          "value": "#555e68"
         },
         "attachment": {
-          "name": "default",
-          "value": "#ffff00"
+          "name": "theme",
+          "value": "#bd8e37"
         },
         "broken": {
-          "name": "default",
-          "value": "#ff0000"
+          "name": "theme",
+          "value": "#a2aab3"
         },
         "excalidraw": {
           "name": "default",
           "value": "#00ffff"
         },
         "tag": {
-          "name": "default",
-          "value": "#ff00ff"
+          "name": "theme",
+          "value": "#0cb54f"
         },
         "nodeHighlightColor": {
-          "name": "default",
-          "value": "#3333ff"
+          "name": "theme",
+          "value": "#5893e7"
         },
         "nodeFocusColor": {
-          "name": "default",
-          "value": "#ff3333"
+          "name": "theme",
+          "value": "#4d8ce6"
         },
         "linkHighlightColor": {
-          "name": "default",
-          "value": "#ffffff"
+          "name": "theme",
+          "value": "#5893e7"
         },
         "linkNormalColor": {
-          "name": "default",
-          "value": "#ffffff"
+          "name": "theme",
+          "value": "#d4d4d4"
         },
         "linkParticleColor": {
           "name": "default",

@@ -26,17 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bbb8deadcde0f5a7",
-            "type": "leaf",
-            "state": {
-              "type": "tags-routes",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 - Work in progress/Farads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 - Work in progress/Farads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03 - Work in progress/Farads.md"
+              }
             }
           }
         ]
@@ -162,7 +158,7 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "bbb8deadcde0f5a7",
+  "active": "40a92efe3f859d9d",
   "lastOpenFiles": [
     "03 - Work in progress/Farads.md",
     "09 - Misc/TagsRoutes/reports",
