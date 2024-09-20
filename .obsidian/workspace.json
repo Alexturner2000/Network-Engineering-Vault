@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "faad3054f8e5b8f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/PoE.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/PoE.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/PoE.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -148,11 +161,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e84fbd39e6780a78",
+  "active": "faad3054f8e5b8f8",
   "lastOpenFiles": [
+    "03 - Work in progress/PoE.md",
+    "Untitled.md",
     "03 - Work in progress/Ohms Law.md",
     "02 - Tags/AC.md",
-    "03 - Work in progress/PoE.md",
     "03 - Work in progress/DC.md",
     "02 - Tags/Separate Signaling.md",
     "01 - Main Notes/UTP.md",
