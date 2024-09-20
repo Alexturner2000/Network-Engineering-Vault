@@ -1,5 +1,7 @@
 # Ethernet
 
+[[Cabling Common Practice]]
+
 | TUP Category | Data Rate | Max. Length |
 | ------------ | --------- | ----------- |
 | Cat1         | 1 Mbps    |             |
