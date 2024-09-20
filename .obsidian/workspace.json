@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Main Notes/UTP.md",
+                "file": "03 - Work in progress/PoE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Main Notes/UTP.md",
+                "file": "03 - Work in progress/PoE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Main Notes/UTP.md",
+                "file": "03 - Work in progress/PoE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Main Notes/UTP.md"
+                "file": "03 - Work in progress/PoE.md"
               }
             }
           }
@@ -150,18 +150,20 @@
   },
   "active": "e84fbd39e6780a78",
   "lastOpenFiles": [
+    "03 - Work in progress/Ohms Law.md",
+    "03 - Work in progress/Current.md",
+    "03 - Work in progress/Data.md",
+    "03 - Work in progress/DC.md",
+    "03 - Work in progress/Joule's law.md",
+    "02 - Tags/Electrical.md",
+    "02 - Tags/AC.md",
+    "01 - Main Notes/UTP.md",
+    "01 - Main Notes/Local Area Network.md",
     "03 - Work in progress/PoE.md",
     "03 - Work in progress/Ethernet.md",
-    "03 - Work in progress/Data.md",
-    "03 - Work in progress/Ohms Law.md",
-    "02 - Tags/AC.md",
-    "03 - Work in progress/DC.md",
     "02 - Tags/Separate Signaling.md",
-    "01 - Main Notes/UTP.md",
     "02 - Tags/Wide Area Network.md",
-    "03 - Work in progress/Current.md",
     "02 - Tags/Electromagnetism.md",
-    "03 - Work in progress/Joule's law.md",
     "09 - Misc/Images/Graphview preview.png",
     "README.md",
     "How I use.md",
@@ -175,9 +177,7 @@
     "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
     "09 - Misc/Images/Straight Through Wiring Scheme.png",
     "02 - Tags/Topology.md",
-    "02 - Tags/Electrical.md",
     "02 - Tags",
-    "01 - Main Notes/Local Area Network.md",
     "01 - Main Notes",
     "09 - Misc/Images/Excalidraw",
     "09 - Misc/Images",
