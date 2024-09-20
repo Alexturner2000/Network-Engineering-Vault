@@ -7,4 +7,4 @@ Equation:
 $$C = \epsilon_0 \cdot \epsilon_r \cdot \frac{A}{d}$$
 $C$ is capacitance in *Farads*$F$
 $\epsilon_0$ is Permittivity of free space constant ($8.854 \times 10^{-12} F/m$)
-$\epsilon_r$ is Relative Permittivity of the material b ($8.854 \times 10^{-12} F/m$)
+$\epsilon_r$ is Relative Permittivity of the material between plates (Dimensionless, air has $\epsilon_r 1$
