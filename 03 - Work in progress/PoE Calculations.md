@@ -5,6 +5,8 @@ $A(f)$ is attenuation coefficient in $dB$ per meter at frequency $f$
 $L$ is length in
 
 ### For Cat5e
-$ Attenuation (dB) = A(f) × L
- Attenuation = 24dB(for 100 MHz, Cat5e) × 1
- Attenuation = 24dB$
+We know frequency for Cat5e is 100MHz
+
+$Attenuation (dB) = A(f) × L$
+$Attenuation = 24dB(for 100 MHz, Cat5e) × 1$
+$Attenuation = 24dB$
