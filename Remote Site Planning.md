@@ -1,5 +1,5 @@
 # Remote Site Planning
-Tags:
+Tags: [[Cabling Common Practice]] 
 
 ## 1. Room Identification
 
