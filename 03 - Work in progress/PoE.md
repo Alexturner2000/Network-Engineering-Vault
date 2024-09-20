@@ -26,13 +26,13 @@ Sends a constant power to the end device without any sort of negotiation
 
 ## IEEE Standards
 
-| Type   | IEEE Standard      | Year |     |     |
-| ------ | ------------------ | ---- | --- | --- |
-| Type 1 | 802.3af            | 2003 |     |     |
-| Type 2 | 802.3at            | 2009 |     |     |
-| Type 3 | 802.3bt            | 2011 |     |     |
-| Type 4 | 802.3bt (ammended) | 2018 |     |     |
-|        |                    |      |     |     |
+| Type   | IEEE Standard      | Year |       |     |
+| ------ | ------------------ | ---- | ----- | --- |
+| Type 1 | 802.3af            | 2003 | PoE   |     |
+| Type 2 | 802.3at            | 2009 | PoE+  |     |
+| Type 3 | 802.3bt            | 2011 | 4PPoE |     |
+| Type 4 | 802.3bt (ammended) | 2018 | PoE++ |     |
+|        |                    |      |       |     |
 
 
 
