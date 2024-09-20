@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eb64780c12f021d9",
@@ -148,7 +149,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e84fbd39e6780a78",
+  "active": "a318511a019e54fd",
   "lastOpenFiles": [
     "02 - Tags/Separate Signaling.md",
     "03 - Work in progress/PoE.md",
