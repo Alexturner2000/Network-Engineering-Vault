@@ -26,19 +26,15 @@ Simplest form of PoE. Certain copper pairs are reserved for only Power and only 
 | Type 4 | 802.3bt (amended) | 2018 | PoE++ | 90 Watts   | All       |
 ## Power Classes
 
-
-| Class       | Power      |
-| ----------- | ---------- |
-| 0 (default) | 15.4 Watts |
-| 1           | 4 Watts    |
-| 2           | 7 Watts    |
-| 3           | 15.4 Watts |
-| 4           | 30 Watts   |
-| 5           | 60 Watts   |
-| 6           | 90 Watts   |
-
-
-
+| Class       | Power      |       |
+| ----------- | ---------- | ----- |
+| 0 (default) | 15.4 Watts | PoE   |
+| 1           | 4 Watts    | PoE   |
+| 2           | 7 Watts    | PoE   |
+| 3           | 15.4 Watts | PoE   |
+| 4           | 30 Watts   | PoE+  |
+| 5           | 60 Watts   | PoE++ |
+| 6           | 90 Watts   | PoE++ |
 
 ## Other 
 ### PoE Injector
