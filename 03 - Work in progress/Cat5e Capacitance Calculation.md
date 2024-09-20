@@ -13,4 +13,4 @@ $A = 1.963 \times 10^{-7}m^2$
 **Capacity Calculation**
 $C = \epsilon_0 \cdot \epsilon_r \cdot \frac{A}{d}$
 $C = 2.3 \cdot (8.854 \times 10^{-12}) \cdot \frac{1.963 \times 10^{-7}m^2}{0.0002}$
-$C = 6.56 \times 10^{-12}$ 
+$C = 6.56 \times 10^{-12}F$ 

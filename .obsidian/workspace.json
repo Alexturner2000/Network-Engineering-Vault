@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cat5e Capacitance Calculation.md",
+                "file": "03 - Work in progress/Cat5e Capacitance Calculation.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cat5e Capacitance Calculation.md",
+                "file": "03 - Work in progress/Cat5e Capacitance Calculation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cat5e Capacitance Calculation.md",
+                "file": "03 - Work in progress/Cat5e Capacitance Calculation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cat5e Capacitance Calculation.md"
+                "file": "03 - Work in progress/Cat5e Capacitance Calculation.md"
               }
             }
           }
@@ -163,7 +163,7 @@
   "active": "c16f2348fe23c9fc",
   "lastOpenFiles": [
     "03 - Work in progress/Capacitance.md",
-    "Cat5e Capacitance Calculation.md",
+    "03 - Work in progress/Cat5e Capacitance Calculation.md",
     "03 - Work in progress/Farads.md",
     "03 - Work in progress/Attenuation.md",
     "01 - Main Notes/Siemens.md",
