@@ -12,3 +12,4 @@ What's cooler than making a notes network for networking?!
 # Plugins
 - Excalidraw
 - LaTeX-like Theorem and equation Reference
+- Mathbooster
