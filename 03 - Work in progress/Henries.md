@@ -7,7 +7,7 @@ Definition: The measure of inductance, which describes the ability of a coil or 
 Inductance Calculation in Henries
 $$L = \mu_0 ⋅\mu_r ⋅\frac{N^2⋅A}{l}$$
 $L$ is inductance in *Siemens*
-$\mu_o$ is Permeability of free space in 
+$\mu_o$ is Permeability of free space constant $4\pi × 10^-7 H/m$
 $\mu_r$ is
 $N$ is
 $A$ is
