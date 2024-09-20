@@ -1,8 +1,8 @@
 # Henries
-Tags: [[02 - Tags/Attenuation]], [[Measurement]]
+Tags: [[03 - Work in progress/Attenuation|Attenuation]], [[Measurement]]
 
-Symbol: $S$
-Definition: The measure of conductance, which is the inverse of resistance
+Symbol: $H$
+Definition: The measure of inductance, which is the inverse of resistance
 Equation:
 $$G = \frac{1}{R}$$
 $G$ is conductance in *Siemens*
