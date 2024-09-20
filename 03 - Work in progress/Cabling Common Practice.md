@@ -1,5 +1,5 @@
 # Cabling Common Practice
-
+Tags: [[Ethernet]] [[Network]] [[Layer 1]] [[]]
 
 ## Colouring
 RED - Uplink
@@ -12,6 +12,6 @@ While it might seem pretty common sense to just go out and start zip tying cat5 
 
 Coming in from multiple sides of the rack saves a significant amount of space and make for adding new gear more easy.
 
-Patch panels directly above and below the switch are freaking amazing. However, life is not always 
+Patch panels directly above and below the switch are freaking amazing. However, life is not always candies and rainbows...
 
 ![[09 - Misc/Images/Excalidraw/patchpannel.excalidraw]]\
