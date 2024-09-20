@@ -11,4 +11,4 @@ $$Attenuation (dB) = A(f) × L = 24dB(for 100 MHz, Cat5e) × 1 = 24dB$$
 ---
 ## Attenuation Coefficient
 Unless we are given the attenuation coefficient, well need to calculate it with the following equation
-$$A(f)=\sqrt{\frac{R}{2}+\frac{G}{2}\frac{L}{2}+\frac{C}{2}}$$
+$$A(f)=\sqrt{(\frac{R}{2}+\frac{G}{2})×(\frac{L}{2}+\frac{C}{2})}$$
