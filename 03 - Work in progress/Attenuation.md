@@ -3,7 +3,7 @@ Tags: [[Attenuation Coefficient]], [[Electrical]], [[PoE]], [[Physics]], [[UTP]]
 
 The reduction in signal strength over a distance
 $$ Attenuation (dB) = A(f) × (\frac{L}{100})$$
-$A(f)$ is attenuation coefficient in $dB$ per meter at frequency $f$
+$A(f)$ is attenuation coefficient in $dB$ per 100 meters at frequency $f$
 $L$ is length in meters
 
 
