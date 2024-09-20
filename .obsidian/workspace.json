@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Work in progress/PoE.md",
+                "file": "03 - Work in progress/PoE Calculations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/PoE.md",
+                "file": "03 - Work in progress/PoE Calculations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/PoE.md",
+                "file": "03 - Work in progress/PoE Calculations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/PoE.md"
+                "file": "03 - Work in progress/PoE Calculations.md"
               }
             }
           }
@@ -150,9 +150,10 @@
   },
   "active": "6761670a3aec1819",
   "lastOpenFiles": [
+    "03 - Work in progress/PoE.md",
+    "03 - Work in progress/PoE Calculations.md",
     "03 - Work in progress/Ohms Law.md",
     "03 - Work in progress/Remote Site Planning.md",
-    "03 - Work in progress/PoE.md",
     "03 - Work in progress/Current.md",
     "02 - Tags/Physics.md",
     "03 - Work in progress/Cabling Common Practice.md",
@@ -178,7 +179,6 @@
     "02 - Tags/Topology.md",
     "02 - Tags/Separate Signaling.md",
     "02 - Tags/Wide Area Network.md",
-    "README.md.md",
     "02 - Tags",
     "01 - Main Notes",
     "09 - Misc/Images/Excalidraw",

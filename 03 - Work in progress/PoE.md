@@ -41,6 +41,7 @@ Simplest form of PoE. Certain copper pairs are reserved for only Power and only 
 A wall outlet device that inject the DC current into the ethernet cable
 ### PoE Splitter
 If your equipment has different power compatibility, you can use a PoE Splitter. This allows you to manually configure the output voltage.
+### [[PoE Calculations]]
 
 ---
 
