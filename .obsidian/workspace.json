@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Work in progress/Farads.md",
+                "file": "01 - Main Notes/Henries.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/Farads.md",
+                "file": "01 - Main Notes/Henries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/Farads.md",
+                "file": "01 - Main Notes/Henries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/Farads.md"
+                "file": "01 - Main Notes/Henries.md"
               }
             }
           }
@@ -149,13 +149,14 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "c16f2348fe23c9fc",
+  "active": "a318511a019e54fd",
   "lastOpenFiles": [
+    "03 - Work in progress/Attenuation.md",
+    "01 - Main Notes/Farads.md",
+    "03 - Work in progress/Joule's law.md",
     "03 - Work in progress/Capacitance.md",
-    "03 - Work in progress/Farads.md",
     "03 - Work in progress/Remote Site Planning.md",
     "03 - Work in progress/Ohms Law.md",
-    "03 - Work in progress/Joule's law.md",
     "03 - Work in progress/DC.md",
     "03 - Work in progress/Cat5e Capacitance Calculation.md",
     "03 - Work in progress/Data.md",
@@ -163,7 +164,6 @@
     "09 - Misc/TagsRoutes/reports",
     "09 - Misc/TagsRoutes/logs",
     "09 - Misc/TagsRoutes",
-    "03 - Work in progress/Attenuation.md",
     "01 - Main Notes/Siemens.md",
     "03 - Work in progress/Cabling Common Practice.md",
     "03 - Work in progress/Current.md",
