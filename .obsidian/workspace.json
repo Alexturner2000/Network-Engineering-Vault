@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Tags/AC.md",
+                "file": "03 - Work in progress/PoE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Tags/AC.md",
+                "file": "03 - Work in progress/PoE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Tags/AC.md",
+                "file": "03 - Work in progress/PoE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Tags/AC.md"
+                "file": "03 - Work in progress/PoE.md"
               }
             }
           }
@@ -148,36 +148,37 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a318511a019e54fd",
+  "active": "6761670a3aec1819",
   "lastOpenFiles": [
-    "02 - Tags/Electrical.md",
+    "03 - Work in progress/Ohms Law.md",
+    "03 - Work in progress/Remote Site Planning.md",
+    "03 - Work in progress/PoE.md",
+    "03 - Work in progress/Current.md",
+    "02 - Tags/Physics.md",
+    "03 - Work in progress/Cabling Common Practice.md",
+    "02 - Tags/Math.md",
+    "02 - Tags/Layer 1.md",
+    "02 - Tags/Joule Heating.md",
     "02 - Tags/Electromagnetism.md",
+    "02 - Tags/AC.md",
+    "02 - Tags/Electrical.md",
     "09 - Misc/Images/Straight Through Wiring Scheme.png",
     "09 - Misc/Images/Graphview preview.png",
     "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
-    "03 - Work in progress/Cabling Common Practice.md",
-    "03 - Work in progress/Current.md",
     "03 - Work in progress/Data.md",
     "03 - Work in progress/DC.md",
     "03 - Work in progress/Ethernet.md",
     "03 - Work in progress/Joule's law.md",
-    "03 - Work in progress/Ohms Law.md",
-    "03 - Work in progress/PoE.md",
-    "03 - Work in progress/Remote Site Planning.md",
     "README.md",
     "How to Vault.md",
     "Objective.md",
     "01 - Main Notes/UTP.md",
     "01 - Main Notes/Local Area Network.md",
     "09 - Misc/Images/Excalidraw/patchpannel.excalidraw.md",
-    "02 - Tags/Joule Heating.md",
     "02 - Tags/Topology.md",
-    "02 - Tags/AC.md",
     "02 - Tags/Separate Signaling.md",
     "02 - Tags/Wide Area Network.md",
     "README.md.md",
-    "03 - Tags/Electical.md",
-    "02 - Tags/Math.md",
     "02 - Tags",
     "01 - Main Notes",
     "09 - Misc/Images/Excalidraw",
