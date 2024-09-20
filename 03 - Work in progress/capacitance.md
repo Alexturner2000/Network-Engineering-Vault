@@ -9,10 +9,10 @@ Capacitance varies also in the shape of the capacitor.
 $$C = \epsilon_0 \cdot \epsilon_r \cdot \frac{A}{d}$$
 
 ### Capacitance of a Cylindrical Plate Capacitor
-$$C = 2\pi \epsilon_0 \cdot \epsilon_r \cdot \frac{l}{ln \frac{b}{a}}$$
+$$C = 2\pi \epsilon_0  \epsilon_r \cdot \frac{l}{ln \frac{b}{a}}$$
 
 ### Capacitance of a Spherical Capacitor
-$$C = 4\pi \epsilon_0 \cdot \epsilon_r \cdot \frac{A}{d}$$
+$$C = 4\pi \epsilon_0 \epsilon_r \cdot \frac{ab}{b-a}$$
 
 ### Capacitance of a Coaxial Cable
-$$C = \epsilon_0 \cdot \epsilon_r \cdot \frac{A}{d}$$
+$$C = 2\pi \epsilon_0 \cdot \epsilon_r \cdot \frac{A}{d}$$
