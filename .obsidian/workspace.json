@@ -163,6 +163,9 @@
   },
   "active": "c16f2348fe23c9fc",
   "lastOpenFiles": [
+    "TagsRoutes/reports",
+    "TagsRoutes/logs",
+    "TagsRoutes",
     "03 - Work in progress/Attenuation Coefficient.md",
     "03 - Work in progress/Attenuation.md",
     "01 - Main Notes/Farads.md",
@@ -191,7 +194,6 @@
     "02 - Tags/Joule Heating.md",
     "02 - Tags/Electromagnetism.md",
     "02 - Tags/AC.md",
-    "02 - Tags/Electrical.md",
     "09 - Misc/Images/Straight Through Wiring Scheme.png",
     "09 - Misc/Images/Graphview preview.png",
     "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
