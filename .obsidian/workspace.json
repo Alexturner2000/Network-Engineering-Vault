@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eb64780c12f021d9",
@@ -184,7 +185,7 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "c461920a9109661f",
+  "active": "a318511a019e54fd",
   "lastOpenFiles": [
     "OSPF.md",
     "link-state advertisements.md",
