@@ -3,14 +3,14 @@ Tags:
 
 
 
-| LS Type | LS name    |
-| ------- | ---------- |
-| 1       | Router-LSA |
-| 2       |            |
-| 3       |            |
-| 4       |            |
-| 5       |            |
-| 6       |            |
-| 7       |            |
-| 8       |            |
-| 9       |            |
+| LS Type | LS name           |
+| ------- | ----------------- |
+| 1       | Router-LSAs       |
+| 2       | Network-LSAs      |
+| 3       | Summary LSAs      |
+| 4       | ASBR-summary      |
+| 5       | AS-external-LSA   |
+| 6       | NSSA external LSA |
+| 7       |                   |
+| 8       |                   |
+| 9       |                   |
