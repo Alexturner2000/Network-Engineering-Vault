@@ -4,5 +4,8 @@ OSPF or Open Shortest Path First is a routing protocol used for networks. It use
 
 ## OSPF Areas
 1. Backbone
-2. Stub
-3. Totally subby Area
+	
+1. Stub
+2. Totally Stubby
+3. Not-so-stubby
+4. Regular
