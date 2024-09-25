@@ -14,3 +14,8 @@ Tags:
 | 7       | NSSA external LSA     | IPv4 & IPv6 |     |
 | 8       | Link-LSA              | IPv6        |     |
 | 9       | Intra-area-prefix LSA | IPv6        |     |
+![[image28.png]]
+
+
+
+
