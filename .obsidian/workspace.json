@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSI Model.md",
+                "file": "02 - Tags/Layer 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSI Model.md",
+                "file": "02 - Tags/Layer 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSI Model.md",
+                "file": "02 - Tags/Layer 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSI Model.md"
+                "file": "02 - Tags/Layer 7.md"
               }
             }
           }
@@ -158,9 +158,15 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "3cddf88a26c18fb9",
+  "active": "a318511a019e54fd",
   "lastOpenFiles": [
     "OSI Model.md",
+    "02 - Tags/Layer 7.md",
+    "Layer 6.md",
+    "Layer 5.md",
+    "Layer 4.md",
+    "Layer 3.md",
+    "Layer 2.md",
     "03 - Work in progress/Attenuation Coefficient.md",
     "TagsRoutes/reports",
     "TagsRoutes/logs/logMessage.md",
@@ -186,12 +192,6 @@
     "03 - Work in progress/Current.md",
     "02 - Tags/Attenuation.md",
     "03 - Work in progress/PoE.md",
-    "02 - Tags/Measurement.md",
-    "02 - Tags/Physics.md",
-    "02 - Tags/Math.md",
-    "02 - Tags/Layer 1.md",
-    "02 - Tags/Joule Heating.md",
-    "02 - Tags/Electromagnetism.md",
     "09 - Misc/Images/Straight Through Wiring Scheme.png",
     "09 - Misc/Images/Graphview preview.png",
     "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
