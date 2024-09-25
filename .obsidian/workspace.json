@@ -11,8 +11,12 @@
             "id": "744655a4672ab123",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "03 - Work in progress/Ethernet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 - Work in progress/Ethernet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 - Work in progress/Ethernet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03 - Work in progress/Ethernet.md"
+              }
             }
           }
         ]
@@ -143,6 +151,7 @@
   },
   "active": "744655a4672ab123",
   "lastOpenFiles": [
+    "03 - Work in progress/PoE.md",
     "02 - Tags/Layer 7.md",
     "02 - Tags/Layer 6.md",
     "02 - Tags/Layer 5.md",
@@ -174,7 +183,6 @@
     "09 - Misc/TagsRoutes",
     "03 - Work in progress/Cabling Common Practice.md",
     "03 - Work in progress/Current.md",
-    "02 - Tags/Attenuation.md",
     "09 - Misc/Images/Straight Through Wiring Scheme.png",
     "09 - Misc/Images/Graphview preview.png",
     "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
