@@ -1,6 +1,6 @@
 {
   "saveSpecVer": 10100,
-  "enableSave": true,
+  "enableSave": false,
   "enableShow": false,
   "currentSlotNum": 2,
   "themeSlotNum": {
