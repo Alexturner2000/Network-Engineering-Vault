@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6a2f36bb835f3f23",
+        "id": "8ed68630fca82730",
         "type": "tabs",
         "children": [
           {
-            "id": "3ae4f11d44ce63db",
+            "id": "26395eb8c68a4e89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to Vault.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "How to Vault.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,8 +141,10 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "a318511a019e54fd",
+  "active": "26395eb8c68a4e89",
   "lastOpenFiles": [
+    "03 - Work in progress/DC.md",
+    "How to Vault.md",
     "Objective.md",
     "README.md",
     "09 - Misc/TagsRoutes/logs/logMessage.md",
@@ -177,9 +171,7 @@
     "03 - Work in progress/Joule's law.md",
     "03 - Work in progress/Capacitance.md",
     "03 - Work in progress/Remote Site Planning.md",
-    "03 - Work in progress/DC.md",
     "03 - Work in progress/Cat5e Capacitance Calculation.md",
-    "03 - Work in progress/Data.md",
     "09 - Misc/TagsRoutes/reports",
     "09 - Misc/TagsRoutes/logs",
     "09 - Misc/TagsRoutes",
