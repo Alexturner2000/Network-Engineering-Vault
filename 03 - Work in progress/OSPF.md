@@ -4,6 +4,8 @@ OSPF or Open Shortest Path First is a routing protocol used for networks. It use
 
 [[link-state advertisements]]
 
+OSPF operates in two modes for sending hello messages.  
+
 ## OSPF Areas
 1. **Backbone**
 	The backbone is area 0, or 0.0.0.0. Like the name suggests, the backbone is the foundation area of OSPF. All other OSPF areas must be connected to the backbone, however, that does not mean they need to be directly connected. For instance: 
