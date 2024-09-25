@@ -6,6 +6,7 @@ OSPF or Open Shortest Path First is a routing protocol used for networks. It use
 
 **Broadcasting** - Much like Layer 2 networks, OSPF and other routing protocols utilize broadcasting in the IP layer of the OSI model. For instance, hello messages can be sent in a broadcast to identify new ospf neighbors. This however, is not always true (but mostly). 
 
+**Non broadcast** - Because its not always guarenteed that OSPF will be able to use multicast packets, it may run in a non-br
 
 ## OSPF Areas
 1. **Backbone**
