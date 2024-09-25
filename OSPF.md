@@ -10,6 +10,6 @@ OSPF or Open Shortest Path First is a routing protocol used for networks. It use
 2. **Regular**
 	A regular area is a simple OSPF area that connects into the backbone area.
 3. **Stub**
-	
+	A stub area is an area that does not recieve route advertisements external to the autonomous system and routing 
 1. Totally Stubby
 2. Not-so-stubby
