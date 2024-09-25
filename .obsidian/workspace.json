@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a83da3e1e83a1a8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/Attenuation.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/Attenuation.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/Attenuation.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -149,8 +162,10 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "26395eb8c68a4e89",
+  "active": "a83da3e1e83a1a8d",
   "lastOpenFiles": [
+    "03 - Work in progress/Attenuation.md",
+    "Untitled.md",
     "03 - Work in progress/Current.md",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
@@ -175,14 +190,12 @@
     "03 - Work in progress/OSI Model.md",
     "03 - Work in progress/Attenuation Coefficient.md",
     "09 - Misc/TagsRoutes/reports",
-    "03 - Work in progress/Attenuation.md",
     "09 - Misc/TagsRoutes/logs",
     "09 - Misc/TagsRoutes",
     "01 - Main Notes/Farads.md",
     "03 - Work in progress/Ohms Law.md",
     "03 - Work in progress/Ohms.md",
     "01 - Main Notes/Siemens.md",
-    "01 - Main Notes/Henries.md",
     "09 - Misc/TagsRoutes/reports",
     "09 - Misc/TagsRoutes/logs",
     "09 - Misc/TagsRoutes",
