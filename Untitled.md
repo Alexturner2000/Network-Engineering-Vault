@@ -1,4 +1,4 @@
 # Flux
 Tags: [[Physics]]
 
-In Latin, flux means "flow", which was
+In Latin, flux means "flow". It is a more general term, 
