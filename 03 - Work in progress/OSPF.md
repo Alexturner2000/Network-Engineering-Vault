@@ -8,7 +8,7 @@ OSPF or Open Shortest Path First is a routing protocol used for networks. It use
 
 **Non-Broadcast** - Because its not always guaranteed that OSPF will be able to use multicast packets, it may run in a non-broadcasting mode. There are two non-broadcasting modes. NBMA non-broadcast multi-access or Point to Multipoint.
 
-There is a difference between **Adjacency and Neighboring** routers. An adjacency is when a relationship is formed between the selected neighboring routers for the p
+There is a difference between **Adjacency and Neighboring** routers. An adjacency is when a relationship is formed between the selected neighboring routers for the purpose of exchanging routing information. Not all neighboring routers will share routing information.
 
 ## OSPF Areas
 1. **Backbone**
