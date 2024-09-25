@@ -10,6 +10,6 @@ OSPF or Open Shortest Path First is a routing protocol used for networks. It use
 2. **Regular**
 	A regular area is a simple OSPF area that connects into the backbone area.
 3. **Stub**
-	A stub area is an area that does not recieve route advertisements external to the autonomous system and routing within the area is based entierly on a defaulte route. An ABR delets type 4 and 5 LSAs from internal routers, sends them all a default route of 0.0.0.0 and turns itself into a default gateway. This reduces 
+	A stub area is an area that does not receive route advertisements external to the autonomous system and routing within the area is based entirely on a default route. An ABR deletes type 4 and 5 LSAs from internal routers, sends them all a default route of 0.0.0.0 and turns itself into a default gateway. This reduces the link-state database
 1. Totally Stubby
 2. Not-so-stubby
