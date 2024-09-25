@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "link-state advertisment.md",
+                "file": "link-state advertisements.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "link-state advertisment.md",
+                "file": "link-state advertisements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "link-state advertisment.md",
+                "file": "link-state advertisements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "link-state advertisment.md"
+                "file": "link-state advertisements.md"
               }
             }
           }
@@ -187,7 +187,7 @@
   "active": "c461920a9109661f",
   "lastOpenFiles": [
     "OSPF.md",
-    "link-state advertisment.md",
+    "link-state advertisements.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-25 12.54.49.excalidraw.md",
     "03 - Work in progress/Flux.md",
     "Routing Protocols.md",
