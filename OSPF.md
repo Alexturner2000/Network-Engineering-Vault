@@ -1,2 +1,3 @@
 # OSPF
-OSPF or Open Shorest 
+Tags: [[Layer 4]]
+OSPF or Open Shorest Path First
