@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-25 12.54.49.excalidraw.md",
+                "file": "OSPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-25 12.54.49.excalidraw.md",
+                "file": "OSPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-25 12.54.49.excalidraw.md"
+                "file": "OSPF.md"
               }
             }
           }
@@ -184,10 +184,10 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "7e0ea9810fead514",
+  "active": "c461920a9109661f",
   "lastOpenFiles": [
-    "OSPF.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-25 12.54.49.excalidraw.md",
+    "OSPF.md",
     "03 - Work in progress/Flux.md",
     "Routing Protocols.md",
     "03 - Work in progress/Attenuation.md",
