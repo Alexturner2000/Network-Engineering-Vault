@@ -8,6 +8,8 @@ OSPF or Open Shortest Path First is a routing protocol used for networks. It use
 
 **Non-Broadcast** - Because its not always guaranteed that OSPF will be able to use multicast packets, it may run in a non-broadcasting mode. There are two non-broadcasting modes. NBMA non-broadcast multi-access or Point to Multipoint.
 
+**Theres **
+
 ## OSPF Areas
 1. **Backbone**
 	The backbone is area 0, or 0.0.0.0. Like the name suggests, the backbone is the foundation area of OSPF. All other OSPF areas must be connected to the backbone, however, that does not mean they need to be directly connected. For instance: 
