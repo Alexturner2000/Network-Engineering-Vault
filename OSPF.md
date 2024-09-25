@@ -8,7 +8,7 @@ OSPF or Open Shortest Path First is a routing protocol used for networks. It use
 	![[09 - Misc/Images/Excalidraw/Drawing 2024-09-25 12.54.49.excalidraw]]
 	Assuming that Area 2 is being advertised by Area 57 to the backbone, this topology works. 
 2. Regular
-	A regular area is a 
+	A regular area is a simple 
 1. Stub
 2. Totally Stubby
 3. Not-so-stubby
