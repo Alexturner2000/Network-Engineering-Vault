@@ -1,3 +1,3 @@
 # OSPF
 Tags: [[Layer 3]], [[Routing Protocols]], 
-OSPF or Open Shortest Path First is a routing protocol used in data networks to allow routing devices to distribute and select paths between nodes on a computer network
+OSPF or Open Shortest Path First is a routing protocol used for networks.
