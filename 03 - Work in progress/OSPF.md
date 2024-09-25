@@ -11,7 +11,7 @@ OSPF or Open Shortest Path First is a routing protocol used for networks. It use
 ## OSPF Areas
 1. **Backbone**
 	The backbone is area 0, or 0.0.0.0. Like the name suggests, the backbone is the foundation area of OSPF. All other OSPF areas must be connected to the backbone, however, that does not mean they need to be directly connected. For instance: 
-	![[09 - Misc/Images/Excalidraw/Drawing 2024-09-25 12.54.49.excalidraw]]
+	![[Connected Backbone and Regular Areas]]
 	Assuming that Area 2 is being advertised by Area 57 to the backbone, this topology works. 
 2. **Regular**
 	A regular area is a simple OSPF area that connects into the backbone area.
