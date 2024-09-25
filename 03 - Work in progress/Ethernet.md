@@ -1,5 +1,6 @@
 # Ethernet
-tags:[[Cabling Common Practice]] [[Layer 1]]
+tags: [[Cabling Common Practice]], [[Layer 1]], [[Electrical]]
+
 
 | TUP Category | Data Rate | Max. Length |
 | ------------ | --------- | ----------- |

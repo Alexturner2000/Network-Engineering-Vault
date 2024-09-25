@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "daedc130d45c8c5e",
+        "id": "6a2f36bb835f3f23",
         "type": "tabs",
         "children": [
           {
-            "id": "744655a4672ab123",
+            "id": "3ae4f11d44ce63db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Work in progress/Ethernet.md",
+                "file": "How to Vault.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/Ethernet.md",
+                "file": "How to Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/Ethernet.md",
+                "file": "How to Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/Ethernet.md"
+                "file": "How to Vault.md"
               }
             }
           }
@@ -149,8 +149,12 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "744655a4672ab123",
+  "active": "a318511a019e54fd",
   "lastOpenFiles": [
+    "Objective.md",
+    "README.md",
+    "09 - Misc/TagsRoutes/logs/logMessage.md",
+    "03 - Work in progress/Ethernet.md",
     "03 - Work in progress/PoE.md",
     "02 - Tags/Layer 7.md",
     "02 - Tags/Layer 6.md",
@@ -161,11 +165,10 @@
     "02 - Tags/Layer 1.md",
     "03 - Work in progress/OSI Model.md",
     "03 - Work in progress/Attenuation Coefficient.md",
-    "TagsRoutes/reports",
-    "TagsRoutes/logs/logMessage.md",
+    "09 - Misc/TagsRoutes/reports",
     "03 - Work in progress/Attenuation.md",
-    "TagsRoutes/logs",
-    "TagsRoutes",
+    "09 - Misc/TagsRoutes/logs",
+    "09 - Misc/TagsRoutes",
     "01 - Main Notes/Farads.md",
     "03 - Work in progress/Ohms Law.md",
     "03 - Work in progress/Ohms.md",
@@ -177,12 +180,9 @@
     "03 - Work in progress/DC.md",
     "03 - Work in progress/Cat5e Capacitance Calculation.md",
     "03 - Work in progress/Data.md",
-    "03 - Work in progress/Ethernet.md",
     "09 - Misc/TagsRoutes/reports",
     "09 - Misc/TagsRoutes/logs",
     "09 - Misc/TagsRoutes",
-    "03 - Work in progress/Cabling Common Practice.md",
-    "03 - Work in progress/Current.md",
     "09 - Misc/Images/Straight Through Wiring Scheme.png",
     "09 - Misc/Images/Graphview preview.png",
     "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
