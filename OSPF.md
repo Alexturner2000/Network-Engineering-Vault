@@ -3,12 +3,13 @@ Tags: [[Layer 3]], [[Routing Protocols]], [[link state routing]]
 OSPF or Open Shortest Path First is a routing protocol used for networks. It uses link state routing (LSR) algorithm to choose best path. 
 
 ## OSPF Areas
-1. Backbone
+1. **Backbone**
 	The backbone is area 0, or 0.0.0.0. Like the name suggests, the backbone is the foundation area of OSPF. All other OSPF areas must be connected to the backbone, however, that does not mean they need to be directly connected. For instance: 
 	![[09 - Misc/Images/Excalidraw/Drawing 2024-09-25 12.54.49.excalidraw]]
 	Assuming that Area 2 is being advertised by Area 57 to the backbone, this topology works. 
-2. Regular
-	A regular area is a simple 
-1. Stub
-2. Totally Stubby
-3. Not-so-stubby
+2. **Regular**
+	A regular area is a simple OSPF area that connects into the backbone area.
+3. **Stub**
+	
+1. Totally Stubby
+2. Not-so-stubby
