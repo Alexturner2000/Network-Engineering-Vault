@@ -1,3 +1,3 @@
 # OSPF
-Tags: [[Layer 4]]
+Tags: [[Layer 3]], [[Routing Protocols]], 
 OSPF or Open Shorest Path First
