@@ -3,14 +3,14 @@ Tags:
 
 
 
-| LS Type | LS name           |
-| ------- | ----------------- |
-| 1       | Router-LSAs       |
-| 2       | Network-LSAs      |
-| 3       | Summary LSAs      |
-| 4       | ASBR-summary      |
-| 5       | AS-external-LSA   |
-| 6       | NSSA external LSA |
-| 7       |                   |
-| 8       |                   |
-| 9       |                   |
+| LS Type | LS name               |             |
+| ------- | --------------------- | ----------- |
+| 1       | Router-LSAs           | IPv4 & IPv6 |
+| 2       | Network-LSAs          | IPv4 & IPv6 |
+| 3       | Summary LSAs          | IPv4 & IPv6 |
+| 4       | ASBR-summary          |             |
+| 5       | AS-external-LSA       |             |
+| 6       | ---                   |             |
+| 7       | NSSA external LSA     |             |
+| 8       | Link-LSA              | IPv6        |
+| 9       | Intra-area-prefix LSA | IPv6        |
