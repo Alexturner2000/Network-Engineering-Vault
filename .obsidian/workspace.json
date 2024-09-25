@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e0ea9810fead514",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-25 12.54.49.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSPF.md",
+                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-25 12.54.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSPF.md",
+                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-25 12.54.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSPF.md"
+                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-25 12.54.49.excalidraw.md"
               }
             }
           }
@@ -174,10 +184,11 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "c461920a9109661f",
+  "active": "7e0ea9810fead514",
   "lastOpenFiles": [
-    "03 - Work in progress/Flux.md",
     "OSPF.md",
+    "09 - Misc/Images/Excalidraw/Drawing 2024-09-25 12.54.49.excalidraw.md",
+    "03 - Work in progress/Flux.md",
     "Routing Protocols.md",
     "03 - Work in progress/Attenuation.md",
     "03 - Work in progress/Current.md",
@@ -207,7 +218,6 @@
     "09 - Misc/TagsRoutes/logs",
     "09 - Misc/TagsRoutes",
     "01 - Main Notes/Farads.md",
-    "03 - Work in progress/Ohms Law.md",
     "09 - Misc/TagsRoutes/reports",
     "09 - Misc/TagsRoutes/logs",
     "09 - Misc/TagsRoutes",
