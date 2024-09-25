@@ -4,7 +4,7 @@ OSPF or Open Shortest Path First is a routing protocol used for networks. It use
 
 ## OSPF Areas
 1. Backbone
-	The backbone area is area 0 in terms of OSPF configuration. Like the 
+	The backbone is area 0, or 0.0.0.0. Like the name suggests, the backbone is the foundation area of OSPF. an 
 1. Stub
 2. Totally Stubby
 3. Not-so-stubby
