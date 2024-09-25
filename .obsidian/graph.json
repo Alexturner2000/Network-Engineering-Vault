@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 16378174
       }
+    },
+    {
+      "query": "OSI Model",
+      "color": {
+        "a": 1,
+        "rgb": 16384000
+      }
     }
   ],
   "collapse-display": false,
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8589458344196839,
-  "close": true
+  "scale": 0.7377879464669043,
+  "close": false
 }
