@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eb64780c12f021d9",
@@ -182,7 +183,7 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "c069e98935ea2c4b",
+  "active": "a318511a019e54fd",
   "lastOpenFiles": [
     "09 - Misc/Images/Pasted image 20240926123551.png",
     "03 - Work in progress/Cat5e Capacitance Calculation.md",

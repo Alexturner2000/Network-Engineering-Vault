@@ -7,9 +7,9 @@ Scadacore uses the governments radio tower data to map out the positions to visu
 
 They also provide comprehensive data on the tower, such as:
 
-| Company | Station Number | TX Freq |     |     |     |     |
-| ------- | -------------- | ------- | --- | --- | --- | --- |
-|         |                |         |     |     |     |     |
+| Company | Station Number | TX Frequency | RX Frequency | Antenna Height | Azimuth | Elevation Angle | Antenna Gain | Total Loss | Output Power |
+| ------- | -------------- | ------------ | ------------ | -------------- | ------- | --------------- | ------------ | ---------- | ------------ |
+|         |                |              |              |                |         |                 |              |            |              |
 
 
 ![[Pasted image 20240926123551.png]]
