@@ -10,7 +10,7 @@ Tags: [[Link-state Database]]
 | Cost: 1                  |
 |                          |
 
-By default,
+By default, each LSA has a 30min timer and will re-distribute.
 
 
 | LS Type | LS name               | IP          |     |
