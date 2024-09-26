@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c6ebc0bedf0fccd",
+        "id": "db04a0301fae59a6",
         "type": "tabs",
         "children": [
           {
-            "id": "f678d66b1c5be3a1",
+            "id": "7862c833fbdccd53",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,8 +149,10 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "f678d66b1c5be3a1",
+  "active": "7862c833fbdccd53",
   "lastOpenFiles": [
+    "02 - Tags/link state.md",
+    "03 - Work in progress/OSPF.md",
     "02 - Tags/Wireless.md",
     "03 - Work in progress/Cell Tower Map (Canada).md",
     "02 - Tags/Electrical.md",
@@ -163,7 +165,6 @@
     "03 - Work in progress/Ohms Law.md",
     "03 - Work in progress/Joule's law.md",
     "03 - Work in progress/Flux.md",
-    "03 - Work in progress/OSPF.md",
     "03 - Work in progress/Attenuation.md",
     "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
     "03 - Work in progress/link-state advertisements.md",
@@ -181,7 +182,6 @@
     "09 - Misc/TagsRoutes/logs/logMessage.md",
     "03 - Work in progress/Ethernet.md",
     "03 - Work in progress/PoE.md",
-    "02 - Tags/Layer 7.md",
     "09 - Misc/TagsRoutes/reports",
     "09 - Misc/TagsRoutes/logs",
     "09 - Misc/TagsRoutes",
