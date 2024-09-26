@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "5b044040e89d5a12",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.23.57.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "fe8b7848e20c1963",
             "type": "leaf",
             "state": {
@@ -41,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/OSPF.md",
+                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.23.57.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/OSPF.md",
+                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.23.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/OSPF.md"
+                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.23.57.excalidraw.md"
               }
             }
           }
@@ -171,15 +182,16 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "7862c833fbdccd53",
+  "active": "5b044040e89d5a12",
   "lastOpenFiles": [
+    "03 - Work in progress/OSPF.md",
+    "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.23.57.excalidraw.md",
+    "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
+    "03 - Work in progress/Link-state Database.md",
     "03 - Work in progress/Cat5e Capacitance Calculation.md",
     "03 - Work in progress/link-state advertisements.md",
-    "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
-    "03 - Work in progress/OSPF.md",
     "03 - Work in progress/PoE.md",
     "02 - Tags/RF.md",
-    "03 - Work in progress/Link-state Database.md",
     "03 - Work in progress/SPF algorithm.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 12.51.48.excalidraw.md",
     "02 - Tags/link state.md",
@@ -203,7 +215,6 @@
     "02 - Tags/Mathematics.md",
     "03 - Work in progress/DC.md",
     "How to Vault.md",
-    "Objective.md",
     "09 - Misc/TagsRoutes/reports",
     "09 - Misc/TagsRoutes/logs",
     "09 - Misc/TagsRoutes",

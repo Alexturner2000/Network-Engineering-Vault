@@ -35,4 +35,4 @@ There are three main steps to becoming an adjacent router
 
 
 ## Contiguous
-It is a rule of thumb to have a contiguous OSPF area topology, but what does that mean? It means to not have duplicate areas outside of the
+It is a rule of thumb to have a contiguous OSPF area topology, but what does that mean? It means to not have duplicate areas outside of the backbone area. For example:
