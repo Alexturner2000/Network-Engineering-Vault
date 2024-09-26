@@ -4,3 +4,5 @@ Legally, all cell towers must be documented and sent to the government of Canada
 
 Scadacore uses the governments radio tower data to map out the positions to visualize them when planning for IoT or SCADA deployments
 [Scadacore](https://www.scadacore.com/tools/rf-path/cell-tower-map-canada/)
+
+![[Pasted image 20240926123551.png]]
