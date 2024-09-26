@@ -11,11 +11,9 @@
             "id": "373463ddef83b306",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "03 - Work in progress/OSPF.md",
-                "mode": "source",
-                "source": false
+                "file": "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md"
               }
             }
           },
@@ -119,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/OSPF.md",
+                "file": "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/OSPF.md",
+                "file": "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/OSPF.md"
+                "file": "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md"
               }
             }
           }
@@ -185,10 +183,10 @@
   },
   "active": "373463ddef83b306",
   "lastOpenFiles": [
+    "03 - Work in progress/OSPF.md",
     "03 - Work in progress/PoE.md",
     "02 - Tags/RF.md",
     "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
-    "03 - Work in progress/OSPF.md",
     "03 - Work in progress/Link-state Database.md",
     "03 - Work in progress/SPF algorithm.md",
     "03 - Work in progress/link-state advertisements.md",
