@@ -15,6 +15,12 @@ OSPFv3 (2008) - IPv6
 
 There is a difference between **Adjacency and Neighboring** routers. An adjacency is when a relationship is formed between the selected neighboring routers for the purpose of exchanging routing information. Not all neighboring routers will share routing information.
 
+
+There are three main steps to becoming an adjacent router
+1. Become neighbors
+2. Exchange LSAs
+3. Calculate best route SPF
+
 ## OSPF Areas
 1. **Backbone**
 	The backbone is area 0, or 0.0.0.0. Like the name suggests, the backbone is the foundation area of OSPF. All other OSPF areas must be connected to the backbone, however, that does not mean they need to be directly connected. For instance: 
