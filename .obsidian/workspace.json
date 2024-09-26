@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Work in progress/OSPF.md",
+                "file": "03 - Work in progress/link-state advertisements.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/OSPF.md",
+                "file": "03 - Work in progress/link-state advertisements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/OSPF.md",
+                "file": "03 - Work in progress/link-state advertisements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/OSPF.md"
+                "file": "03 - Work in progress/link-state advertisements.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "7862c833fbdccd53",
   "lastOpenFiles": [
-    "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 12.51.48.excalidraw.md",
     "03 - Work in progress/OSPF.md",
+    "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 12.51.48.excalidraw.md",
     "02 - Tags/link state.md",
     "02 - Tags/Wireless.md",
     "03 - Work in progress/Cell Tower Map (Canada).md",
