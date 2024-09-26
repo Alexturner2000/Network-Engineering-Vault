@@ -4,55 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "57853f2c086a8047",
+        "id": "6f2786a62ed16fe3",
         "type": "tabs",
         "children": [
           {
-            "id": "be9425ea238c3dc7",
+            "id": "e8f63c7fcaf0c9c2",
             "type": "leaf",
             "state": {
-              "type": "tags-routes",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "84000d3485cb9d1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Tags/Electrical.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dc1e6af864ee34e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Work in progress/Cat5e Capacitance Calculation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c069e98935ea2c4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cell Tower Map (Canada).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eb64780c12f021d9",
@@ -119,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cell Tower Map (Canada).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cell Tower Map (Canada).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cell Tower Map (Canada).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,15 +143,18 @@
   },
   "active": "a318511a019e54fd",
   "lastOpenFiles": [
-    "09 - Misc/Images/Pasted image 20240926123551.png",
+    "02 - Tags/Wireless.md",
+    "03 - Work in progress/Cell Tower Map (Canada).md",
+    "02 - Tags/Electrical.md",
     "03 - Work in progress/Cat5e Capacitance Calculation.md",
-    "Cell Tower Map (Canada).md",
+    "RF.md",
+    "02 - Tags/Cellular.md",
+    "09 - Misc/Images/Pasted image 20240926123551.png",
     "03 - Work in progress/Current.md",
     "03 - Work in progress/Data.md",
     "03 - Work in progress/Ohms Law.md",
     "03 - Work in progress/Joule's law.md",
     "03 - Work in progress/Flux.md",
-    "02 - Tags/Electrical.md",
     "03 - Work in progress/OSPF.md",
     "03 - Work in progress/Attenuation.md",
     "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
@@ -213,8 +174,6 @@
     "03 - Work in progress/Ethernet.md",
     "03 - Work in progress/PoE.md",
     "02 - Tags/Layer 7.md",
-    "02 - Tags/Layer 6.md",
-    "02 - Tags/Layer 5.md",
     "09 - Misc/TagsRoutes/reports",
     "09 - Misc/TagsRoutes/logs",
     "09 - Misc/TagsRoutes",

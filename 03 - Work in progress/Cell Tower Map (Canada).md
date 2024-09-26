@@ -1,5 +1,5 @@
 # Cell Tower Mapper
-Tags: [layer 1], []
+Tags: [[Layer 1]], [[Cellular]], [[RF]], [[Wireless]]
 
 Legally, all cell towers must be documented and sent to the government of Canada in order to operate. 
 
