@@ -1,5 +1,5 @@
 # OSPF
-Tags: [[Layer 3]], [[Routing Protocols]], [[link state]]
+Tags: [[Layer 3]], [[Routing Protocols]], [[link state]], [[Link-state Database]], [[link-state advertisements]]
 
 OSPF or Open Shortest Path First is a routing protocol used for networks. It uses link state routing (LSR) algorithm to choose best path. 
 
@@ -8,8 +8,6 @@ Open Shortest Path first uses Dijkstra's algorithm
 OSPFv1 (1989) - Old and not used
 OSPFv2 (1998) - IPv4
 OSPFv3 (2008) - IPv6
-
-[[link-state advertisements]]
 
 **Broadcast** - Much like Layer 2 networks, OSPF utilizes broadcasting in the IP layer of the OSI model. For instance, hello messages can be sent in a broadcast to identify new OSPF neighbors. This however, is not always true (but mostly). 
 
