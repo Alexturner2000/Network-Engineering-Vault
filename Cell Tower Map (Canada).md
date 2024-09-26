@@ -1,3 +1,6 @@
+# Cell Tower Mapper
+Tags: [layer 1], []
+
 Legally, all cell towers must be documented and sent to the government of Canada in order to operate. 
 
 [Government Webpage](https://ised-isde.canada.ca/site/spectrum-management-system/en/spectrum-management-system-data)
@@ -5,7 +8,7 @@ Legally, all cell towers must be documented and sent to the government of Canada
 Scadacore uses the governments radio tower data to map out the positions to visualize them when planning for IoT or SCADA deployments
 [Scadacore](https://www.scadacore.com/tools/rf-path/cell-tower-map-canada/)
 
-They also provide comprehensive data on the tower, such as:
+They also provide comprehensive data on the tower and your position to the tower.
 
 | Company       | Station Number | TX Frequency | RX Frequency | Antenna Height | Azimuth | Elevation Angle | Antenna Gain | Total Loss | Output Power | Bandwidth |
 | ------------- | -------------- | ------------ | ------------ | -------------- | ------- | --------------- | ------------ | ---------- | ------------ | --------- |
