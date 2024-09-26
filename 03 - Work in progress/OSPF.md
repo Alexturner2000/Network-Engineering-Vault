@@ -33,7 +33,7 @@ There are three main steps to becoming an adjacent router
 1. Totally Stubby
 2. Not-so-stubby
 
-
+# Rules
 ## Contiguous
 It is a rule of thumb to have a contiguous OSPF area topology, but what does that mean? It means to not have duplicate areas outside of the backbone area. For example:
 ![[09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.23.57.excalidraw]]
