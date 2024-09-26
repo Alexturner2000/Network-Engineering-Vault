@@ -1,5 +1,5 @@
 # OSPF
-Tags: [[Layer 3]], [[Routing Protocols]], [[link state]], [[Link-state Database]], [[link-state advertisements]]
+Tags: [[Layer 3]], [[Routing Protocols]], [[link state]], [[Link-state Database]], [[link-state advertisements]], [[SPF algorithm]]
 
 OSPF or Open Shortest Path First is a routing protocol used for networks. It uses link state routing (LSR) algorithm to choose best path. 
 
