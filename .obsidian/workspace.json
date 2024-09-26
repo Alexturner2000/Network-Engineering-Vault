@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9abee6cb19854a4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 12.51.48.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eb64780c12f021d9",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/OSPF.md",
+                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 12.51.48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/OSPF.md",
+                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 12.51.48.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/OSPF.md"
+                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 12.51.48.excalidraw.md"
               }
             }
           }
@@ -149,10 +161,11 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "7862c833fbdccd53",
+  "active": "c9abee6cb19854a4",
   "lastOpenFiles": [
-    "02 - Tags/link state.md",
     "03 - Work in progress/OSPF.md",
+    "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 12.51.48.excalidraw.md",
+    "02 - Tags/link state.md",
     "02 - Tags/Wireless.md",
     "03 - Work in progress/Cell Tower Map (Canada).md",
     "02 - Tags/Electrical.md",
@@ -181,7 +194,6 @@
     "README.md",
     "09 - Misc/TagsRoutes/logs/logMessage.md",
     "03 - Work in progress/Ethernet.md",
-    "03 - Work in progress/PoE.md",
     "09 - Misc/TagsRoutes/reports",
     "09 - Misc/TagsRoutes/logs",
     "09 - Misc/TagsRoutes",
