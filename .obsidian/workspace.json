@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Link-state Database.md",
+                "file": "03 - Work in progress/Link-state Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Tags/RF.md",
+                "file": "03 - Work in progress/Link-state Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Tags/RF.md",
+                "file": "03 - Work in progress/Link-state Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Tags/RF.md"
+                "file": "03 - Work in progress/Link-state Database.md"
               }
             }
           }
@@ -196,19 +196,19 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "a318511a019e54fd",
+  "active": "fe8b7848e20c1963",
   "lastOpenFiles": [
+    "02 - Tags/RF.md",
     "03 - Work in progress/SPF algorithm.md",
     "03 - Work in progress/OSPF.md",
     "03 - Work in progress/link-state advertisements.md",
-    "Link-state Database.md",
+    "03 - Work in progress/Link-state Database.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 12.51.48.excalidraw.md",
     "02 - Tags/link state.md",
     "02 - Tags/Wireless.md",
     "03 - Work in progress/Cell Tower Map (Canada).md",
     "02 - Tags/Electrical.md",
     "03 - Work in progress/Cat5e Capacitance Calculation.md",
-    "02 - Tags/RF.md",
     "02 - Tags/Cellular.md",
     "09 - Misc/Images/Pasted image 20240926123551.png",
     "03 - Work in progress/Current.md",
