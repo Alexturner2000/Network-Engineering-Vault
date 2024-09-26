@@ -23,7 +23,7 @@ There are three main steps to becoming an adjacent router
 
 ## OSPF Areas
 1. **Backbone**
-	The backbone is area 0, or 0.0.0.0. Like the name suggests, the backbone is the foundation area of OSPF. All other OSPF areas must be connected to the backbone, however, that does not mean they need to be directly connected. For instance: 
+	The backbone is area 0, or 0.0.0.0. Like the name suggests, the backbone is the foundation area of OSPF. All other OSPF areas must be connected to the backbone. Its also worth noting that the ABR is also considered a backbone router. 
 	![[Connected Backbone and Regular Areas]]
 	Assuming that Area 2 is being advertised by Area 57 to the backbone, this topology works. 
 2. **Regular**

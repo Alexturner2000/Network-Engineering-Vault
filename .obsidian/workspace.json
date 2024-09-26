@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Tags/RF.md",
+                "file": "03 - Work in progress/OSPF.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Tags/RF.md",
+                "file": "03 - Work in progress/OSPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Tags/RF.md",
+                "file": "03 - Work in progress/OSPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Tags/RF.md"
+                "file": "03 - Work in progress/OSPF.md"
               }
             }
           }
@@ -185,10 +185,11 @@
   },
   "active": "373463ddef83b306",
   "lastOpenFiles": [
+    "03 - Work in progress/PoE.md",
+    "02 - Tags/RF.md",
     "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
     "03 - Work in progress/OSPF.md",
     "03 - Work in progress/Link-state Database.md",
-    "02 - Tags/RF.md",
     "03 - Work in progress/SPF algorithm.md",
     "03 - Work in progress/link-state advertisements.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 12.51.48.excalidraw.md",
@@ -215,7 +216,6 @@
     "03 - Work in progress/DC.md",
     "How to Vault.md",
     "Objective.md",
-    "README.md",
     "09 - Misc/TagsRoutes/reports",
     "09 - Misc/TagsRoutes/logs",
     "09 - Misc/TagsRoutes",
