@@ -1,12 +1,12 @@
 # Link-state advertisements
-Tags:
+Tags: [[Link-state Databa]]
 
 
 
 | Link state advertisments |
 | ------------------------ |
 | RID: 4.4.4.4             |
-| IP: 10.0.0.1             |
+| IP: 10.0.0.0/24          |
 | Cost: 1                  |
 |                          |
 
