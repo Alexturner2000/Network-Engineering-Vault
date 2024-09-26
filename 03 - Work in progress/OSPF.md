@@ -32,3 +32,7 @@ There are three main steps to becoming an adjacent router
 	A stub area is an area that does not receive route advertisements external to the autonomous system and routing within the area is based entirely on a default route. An ABR deletes type 4 and 5 LSAs from internal routers, sends them all a default route of 0.0.0.0 and turns itself into a default gateway. This reduces the link-state database
 1. Totally Stubby
 2. Not-so-stubby
+
+
+## Contiguous
+It is a rule of thumb to have a contiguous OSPF area topology, but what does that mean? It means to not have duplicate areas outside of the
