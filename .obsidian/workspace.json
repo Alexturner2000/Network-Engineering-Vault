@@ -11,11 +11,9 @@
             "id": "32265fa7aa864aee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "03 - Work in progress/OSPF.md",
-                "mode": "source",
-                "source": false
+                "file": "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md"
               }
             }
           },
@@ -65,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/Link-state Database.md",
+                "file": "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/Link-state Database.md",
+                "file": "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/Link-state Database.md"
+                "file": "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md"
               }
             }
           }
@@ -196,13 +193,13 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "fe8b7848e20c1963",
+  "active": "32265fa7aa864aee",
   "lastOpenFiles": [
+    "03 - Work in progress/OSPF.md",
+    "03 - Work in progress/Link-state Database.md",
     "02 - Tags/RF.md",
     "03 - Work in progress/SPF algorithm.md",
-    "03 - Work in progress/OSPF.md",
     "03 - Work in progress/link-state advertisements.md",
-    "03 - Work in progress/Link-state Database.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 12.51.48.excalidraw.md",
     "02 - Tags/link state.md",
     "02 - Tags/Wireless.md",
