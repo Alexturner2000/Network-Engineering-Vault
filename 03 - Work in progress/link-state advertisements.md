@@ -1,5 +1,5 @@
 # Link-state advertisements
-Tags: [[Link-state Databa]]
+Tags: [[Link-state Database]]
 
 
 

@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "fe8b7848e20c1963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Link-state Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c9abee6cb19854a4",
             "type": "leaf",
             "state": {
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/link-state advertisements.md",
+                "file": "Link-state Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/link-state advertisements.md",
+                "file": "Link-state Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/link-state advertisements.md"
+                "file": "Link-state Database.md"
               }
             }
           }
@@ -160,8 +173,10 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "7862c833fbdccd53",
+  "active": "fe8b7848e20c1963",
   "lastOpenFiles": [
+    "03 - Work in progress/link-state advertisements.md",
+    "Link-state Database.md",
     "03 - Work in progress/OSPF.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 12.51.48.excalidraw.md",
     "02 - Tags/link state.md",
@@ -179,7 +194,6 @@
     "03 - Work in progress/Flux.md",
     "03 - Work in progress/Attenuation.md",
     "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
-    "03 - Work in progress/link-state advertisements.md",
     "09 - Misc/Images/image28.png",
     "03 - Work in progress/Routing Protocols.md",
     "TagsRoutes/reports",
@@ -192,7 +206,6 @@
     "Objective.md",
     "README.md",
     "09 - Misc/TagsRoutes/logs/logMessage.md",
-    "03 - Work in progress/Ethernet.md",
     "09 - Misc/TagsRoutes/reports",
     "09 - Misc/TagsRoutes/logs",
     "09 - Misc/TagsRoutes",
