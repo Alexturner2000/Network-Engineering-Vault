@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Link-state Database.md",
+                "file": "03 - Work in progress/link-state advertisements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Link-state Database.md",
+                "file": "03 - Work in progress/link-state advertisements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Link-state Database.md"
+                "file": "03 - Work in progress/link-state advertisements.md"
               }
             }
           }
@@ -173,10 +172,10 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "fe8b7848e20c1963",
+  "active": "7862c833fbdccd53",
   "lastOpenFiles": [
-    "03 - Work in progress/link-state advertisements.md",
     "Link-state Database.md",
+    "03 - Work in progress/link-state advertisements.md",
     "03 - Work in progress/OSPF.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 12.51.48.excalidraw.md",
     "02 - Tags/link state.md",

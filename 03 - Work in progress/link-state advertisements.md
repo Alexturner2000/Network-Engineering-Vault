@@ -10,7 +10,7 @@ Tags: [[Link-state Database]]
 | Cost: 1                  |
 |                          |
 
-
+By default,
 
 
 | LS Type | LS name               | IP          |     |
