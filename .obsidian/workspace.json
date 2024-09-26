@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32265fa7aa864aee",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md"
-              }
-            }
-          },
-          {
             "id": "373463ddef83b306",
             "type": "leaf",
             "state": {
@@ -129,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
+                "file": "02 - Tags/RF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
+                "file": "02 - Tags/RF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md"
+                "file": "02 - Tags/RF.md"
               }
             }
           }
@@ -193,8 +183,9 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "32265fa7aa864aee",
+  "active": "373463ddef83b306",
   "lastOpenFiles": [
+    "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
     "03 - Work in progress/OSPF.md",
     "03 - Work in progress/Link-state Database.md",
     "02 - Tags/RF.md",
@@ -214,7 +205,6 @@
     "03 - Work in progress/Joule's law.md",
     "03 - Work in progress/Flux.md",
     "03 - Work in progress/Attenuation.md",
-    "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
     "09 - Misc/Images/image28.png",
     "03 - Work in progress/Routing Protocols.md",
     "TagsRoutes/reports",
