@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8ed68630fca82730",
+        "id": "57853f2c086a8047",
         "type": "tabs",
         "children": [
           {
-            "id": "26395eb8c68a4e89",
+            "id": "be9425ea238c3dc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Work in progress/OSPF.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "tags-routes",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eb64780c12f021d9",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/OSPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/OSPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03 - Work in progress/OSPF.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,12 +141,12 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "26395eb8c68a4e89",
+  "active": "be9425ea238c3dc7",
   "lastOpenFiles": [
+    "03 - Work in progress/OSPF.md",
     "03 - Work in progress/Attenuation.md",
     "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
     "03 - Work in progress/Flux.md",
-    "03 - Work in progress/OSPF.md",
     "03 - Work in progress/link-state advertisements.md",
     "09 - Misc/Images/image28.png",
     "03 - Work in progress/Routing Protocols.md",
