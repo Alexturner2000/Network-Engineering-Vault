@@ -11,12 +11,8 @@
             "id": "9ed584b309e42fb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Work in progress/OSPF.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -96,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/OSPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/OSPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03 - Work in progress/OSPF.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,9 +154,9 @@
   },
   "active": "9ed584b309e42fb6",
   "lastOpenFiles": [
+    "03 - Work in progress/OSPF.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.28.21.excalidraw.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.23.57.excalidraw.md",
-    "03 - Work in progress/OSPF.md",
     "03 - Work in progress/Link-state Database.md",
     "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 12.51.48.excalidraw.md",
