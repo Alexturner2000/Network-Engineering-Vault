@@ -3,6 +3,13 @@ Tags:
 
 
 
+| Link state advertisments |
+| ------------------------ |
+| RID: 4.4.4.4             |
+| IP: 10.0.0.1             |
+| Cost: 1                  |
+|                          |
+
 
 
 
