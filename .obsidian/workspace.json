@@ -1,21 +1,31 @@
 {
   "main": {
-    "id": "90a3a21344428b91",
+    "id": "a293ad8142c07709",
     "type": "split",
     "children": [
       {
-        "id": "522adf2d2e87193e",
+        "id": "b22674dba32db710",
         "type": "tabs",
         "children": [
           {
-            "id": "582f430d50ff5796",
+            "id": "9ed584b309e42fb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Work in progress/Ethernet.md",
+                "file": "03 - Work in progress/OSPF.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "651f4777c5fd95d4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.28.21.excalidraw.md"
               }
             }
           }
@@ -25,15 +35,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7983b9a1a898ebe2",
+    "id": "96b3d2528fd347ba",
     "type": "split",
     "children": [
       {
-        "id": "f5ec43ae0cf0374b",
+        "id": "0b18649d2089243d",
         "type": "tabs",
         "children": [
           {
-            "id": "be7222e14fdede4f",
+            "id": "a318511a019e54fd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +53,7 @@
             }
           },
           {
-            "id": "07ffc9365f3a933a",
+            "id": "ff8d14d7d258affa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +68,7 @@
             }
           },
           {
-            "id": "c6809648968735eb",
+            "id": "1571be28a756dc95",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +82,20 @@
     "width": 300
   },
   "right": {
-    "id": "eec090ec45c5ee33",
+    "id": "eb64780c12f021d9",
     "type": "split",
     "children": [
       {
-        "id": "bd1852f59c2c3c49",
+        "id": "ad1ba41c0111c874",
         "type": "tabs",
         "children": [
           {
-            "id": "3648bc9636ad1ef1",
+            "id": "be1d1c3d20d9fb6e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/Ethernet.md",
+                "file": "03 - Work in progress/OSPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +107,19 @@
             }
           },
           {
-            "id": "65e5da6ad344a16a",
+            "id": "b81c3bddb6f0ec42",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/Ethernet.md",
+                "file": "03 - Work in progress/OSPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "649d2f615504be53",
+            "id": "f62c8827b70b14b5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +130,12 @@
             }
           },
           {
-            "id": "93df525604dcec47",
+            "id": "4e0e4a07ecc03357",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/Ethernet.md"
+                "file": "03 - Work in progress/OSPF.md"
               }
             }
           }
@@ -138,27 +148,59 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "582f430d50ff5796",
+  "active": "9ed584b309e42fb6",
   "lastOpenFiles": [
-    "03 - Work in progress/Flux.md",
-    "03 - Work in progress/Joule's law.md",
-    "03 - Work in progress/Ohms Law.md",
+    "03 - Work in progress/OSI Model.md",
+    "03 - Work in progress/Attenuation.md",
+    "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.28.21.excalidraw.md",
     "03 - Work in progress/OSPF.md",
-    "03 - Work in progress/Remote Site Planning.md",
-    "03 - Work in progress/Routing Protocols.md",
+    "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.23.57.excalidraw.md",
+    "03 - Work in progress/Link-state Database.md",
+    "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
+    "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 12.51.48.excalidraw.md",
+    "03 - Work in progress/Cat5e Capacitance Calculation.md",
+    "03 - Work in progress/link-state advertisements.md",
+    "03 - Work in progress/PoE.md",
+    "02 - Tags/RF.md",
     "03 - Work in progress/SPF algorithm.md",
-    "conflict-files-obsidian-git.md",
-    "TagsRoutes/logs"
+    "02 - Tags/link state.md",
+    "02 - Tags/Wireless.md",
+    "03 - Work in progress/Cell Tower Map (Canada).md",
+    "02 - Tags/Electrical.md",
+    "02 - Tags/Cellular.md",
+    "09 - Misc/Images/Pasted image 20240926123551.png",
+    "03 - Work in progress/Current.md",
+    "03 - Work in progress/Data.md",
+    "03 - Work in progress/Ohms Law.md",
+    "03 - Work in progress/Joule's law.md",
+    "03 - Work in progress/Flux.md",
+    "09 - Misc/Images/image28.png",
+    "03 - Work in progress/Routing Protocols.md",
+    "TagsRoutes/reports",
+    "TagsRoutes/logs",
+    "TagsRoutes",
+    "02 - Tags/Calculation.md",
+    "02 - Tags/Mathematics.md",
+    "09 - Misc/TagsRoutes/reports",
+    "09 - Misc/TagsRoutes/logs",
+    "09 - Misc/TagsRoutes",
+    "09 - Misc/TagsRoutes/reports",
+    "09 - Misc/TagsRoutes/logs",
+    "09 - Misc/TagsRoutes",
+    "09 - Misc/Images/Straight Through Wiring Scheme.png",
+    "09 - Misc/Images/Graphview preview.png",
+    "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
+    "02 - Tags"
   ]
 }
