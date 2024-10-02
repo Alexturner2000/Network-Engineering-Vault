@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eb64780c12f021d9",
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.28.21.excalidraw.md",
+                "file": "03 - Work in progress/Attenuation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.28.21.excalidraw.md",
+                "file": "03 - Work in progress/Attenuation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.28.21.excalidraw.md"
+                "file": "03 - Work in progress/Attenuation.md"
               }
             }
           }
@@ -161,11 +159,11 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "651f4777c5fd95d4",
+  "active": "9ed584b309e42fb6",
   "lastOpenFiles": [
+    "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.28.21.excalidraw.md",
     "03 - Work in progress/Attenuation.md",
     "03 - Work in progress/OSPF.md",
-    "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.28.21.excalidraw.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.23.57.excalidraw.md",
     "03 - Work in progress/Link-state Database.md",
     "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
