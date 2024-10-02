@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/Attenuation.md",
+                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.28.21.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/Attenuation.md",
+                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.28.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Work in progress/Attenuation.md"
+                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.28.21.excalidraw.md"
               }
             }
           }
@@ -160,8 +161,9 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "9ed584b309e42fb6",
+  "active": "651f4777c5fd95d4",
   "lastOpenFiles": [
+    "03 - Work in progress/Attenuation.md",
     "03 - Work in progress/OSPF.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.28.21.excalidraw.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.23.57.excalidraw.md",
@@ -184,7 +186,6 @@
     "03 - Work in progress/Ohms Law.md",
     "03 - Work in progress/Joule's law.md",
     "03 - Work in progress/Flux.md",
-    "03 - Work in progress/Attenuation.md",
     "09 - Misc/Images/image28.png",
     "03 - Work in progress/Routing Protocols.md",
     "TagsRoutes/reports",
