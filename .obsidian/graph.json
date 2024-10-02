@@ -13,18 +13,25 @@
         "a": 1,
         "rgb": 16378174
       }
+    },
+    {
+      "query": "OSI Model",
+      "color": {
+        "a": 1,
+        "rgb": 16384000
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -0.9,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 12.9166666666667,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.8589458344196839,
+  "linkDistance": 179,
+  "scale": 0.572630556279796,
   "close": true
 }

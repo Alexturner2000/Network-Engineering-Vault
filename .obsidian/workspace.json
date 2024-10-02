@@ -1,26 +1,14 @@
 {
   "main": {
-    "id": "a293ad8142c07709",
+    "id": "90a3a21344428b91",
     "type": "split",
     "children": [
       {
-        "id": "daedc130d45c8c5e",
+        "id": "3872b2a761e399cf",
         "type": "tabs",
         "children": [
           {
-            "id": "744655a4672ab123",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Work in progress/Attenuation Coefficient.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "defb17dd5b716e2b",
+            "id": "e6af2ca13b33e26f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,22 +19,21 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "96b3d2528fd347ba",
+    "id": "7983b9a1a898ebe2",
     "type": "split",
     "children": [
       {
-        "id": "0b18649d2089243d",
+        "id": "f5ec43ae0cf0374b",
         "type": "tabs",
         "children": [
           {
-            "id": "a318511a019e54fd",
+            "id": "be7222e14fdede4f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "ff8d14d7d258affa",
+            "id": "07ffc9365f3a933a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "1571be28a756dc95",
+            "id": "c6809648968735eb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "eb64780c12f021d9",
+    "id": "eec090ec45c5ee33",
     "type": "split",
     "children": [
       {
-        "id": "ad1ba41c0111c874",
+        "id": "bd1852f59c2c3c49",
         "type": "tabs",
         "children": [
           {
-            "id": "be1d1c3d20d9fb6e",
+            "id": "3648bc9636ad1ef1",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -110,7 +97,7 @@
             }
           },
           {
-            "id": "b81c3bddb6f0ec42",
+            "id": "65e5da6ad344a16a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,7 +109,7 @@
             }
           },
           {
-            "id": "f62c8827b70b14b5",
+            "id": "649d2f615504be53",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +120,7 @@
             }
           },
           {
-            "id": "4e0e4a07ecc03357",
+            "id": "93df525604dcec47",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -151,57 +138,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "graph:Open graph view": false,
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "defb17dd5b716e2b",
+  "active": "e6af2ca13b33e26f",
   "lastOpenFiles": [
-    "03 - Work in progress/Attenuation Coefficient.md",
     "conflict-files-obsidian-git.md",
-    "Layer 6.md",
-    "Layer 5.md",
-    "Layer 4.md",
-    "Layer 3.md",
-    "Layer 2.md",
-    "02 - Tags/Layer 7.md",
-    "OSI Model.md",
-    "TagsRoutes/logs/logMessage.md",
-    "03 - Work in progress/Attenuation.md",
-    "TagsRoutes/reports",
-    "TagsRoutes/logs",
-    "TagsRoutes",
-    "01 - Main Notes/Farads.md",
-    "03 - Work in progress/Ohms Law.md",
-    "03 - Work in progress/Ohms.md",
-    "01 - Main Notes/Siemens.md",
-    "01 - Main Notes/Henries.md",
-    "03 - Work in progress/Joule's law.md",
-    "03 - Work in progress/Capacitance.md",
-    "03 - Work in progress/Remote Site Planning.md",
-    "03 - Work in progress/DC.md",
-    "03 - Work in progress/Cat5e Capacitance Calculation.md",
-    "03 - Work in progress/Data.md",
-    "03 - Work in progress/Ethernet.md",
-    "09 - Misc/TagsRoutes/reports",
-    "09 - Misc/TagsRoutes/logs",
-    "09 - Misc/TagsRoutes",
-    "03 - Work in progress/Cabling Common Practice.md",
-    "03 - Work in progress/Current.md",
-    "02 - Tags/Attenuation.md",
-    "09 - Misc/Images/Straight Through Wiring Scheme.png",
-    "09 - Misc/Images/Graphview preview.png",
-    "09 - Misc/Images/Crossover Cable Wiring Scheme.png",
-    "02 - Tags",
-    "01 - Main Notes",
-    "09 - Misc/Images/Excalidraw",
-    "09 - Misc/Images"
+    "TagsRoutes/logs"
   ]
 }

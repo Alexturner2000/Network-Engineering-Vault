@@ -1,4 +1,5 @@
 # Cat5e Capacitance Calculation
+Tags: [[Mathematics]], [[Calculation]]
 
 $$C = \epsilon_0 \cdot \epsilon_r \cdot \frac{A}{d}$$
 **Given**

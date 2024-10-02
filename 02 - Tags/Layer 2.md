@@ -1,2 +1,2 @@
-# Layer 1 
+# Layer 2
 tags: [[OSI Model]]
