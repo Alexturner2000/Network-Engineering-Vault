@@ -8,25 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ed584b309e42fb6",
+            "id": "651f4777c5fd95d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Work in progress/OSPF.md",
+                "file": "Objective.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "5c8aeed185ca1ae9",
+        "type": "tabs",
+        "children": [
           {
-            "id": "651f4777c5fd95d4",
+            "id": "9ed584b309e42fb6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.28.21.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -95,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Work in progress/OSPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Work in progress/OSPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03 - Work in progress/OSPF.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,12 +148,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "tags-routes:Open tags routes": false
@@ -161,11 +161,12 @@
   },
   "active": "9ed584b309e42fb6",
   "lastOpenFiles": [
+    "Objective.md",
     "How I Vault.md",
+    "03 - Work in progress/OSPF.md",
     "03 - Work in progress/OSI Model.md",
     "03 - Work in progress/Attenuation.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.28.21.excalidraw.md",
-    "03 - Work in progress/OSPF.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.23.57.excalidraw.md",
     "03 - Work in progress/Link-state Database.md",
     "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
@@ -191,7 +192,6 @@
     "TagsRoutes/reports",
     "TagsRoutes/logs",
     "TagsRoutes",
-    "02 - Tags/Calculation.md",
     "09 - Misc/TagsRoutes/reports",
     "09 - Misc/TagsRoutes/logs",
     "09 - Misc/TagsRoutes",
