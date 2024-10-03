@@ -20,20 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "5c8aeed185ca1ae9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9ed584b309e42fb6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -99,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Objective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Objective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Objective.md"
+              }
             }
           }
         ]
@@ -159,7 +149,7 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "9ed584b309e42fb6",
+  "active": "651f4777c5fd95d4",
   "lastOpenFiles": [
     "Objective.md",
     "How I Vault.md",
