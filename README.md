@@ -5,7 +5,7 @@ Work-in-progress obsidian vault used to take notes related to network engineerin
 What's cooler than making a note-network for networking?!
 
 # Quick links:
-[How I Vault](https://github.com/Alexturner2000/Network-Engineering-Vault/blob/59b92636a2542572058b4b1549fa2dab5da71423/How%20I%20Vault.md)
+[How I Vault](https://github.com/Alexturner2000/Network-Engineering-Vault/blob/eff2c98b8ba3e92009f79b441ed793495354929f/How%20I%20Vault.md)
 [Objective](https://github.com/Alexturner2000/Network-Engineering-Vault/blob/59b92636a2542572058b4b1549fa2dab5da71423/Objective.md)
 
 ![obsidian graph](https://github.com/Alexturner2000/Network-Engineering-Vault/blob/caca4726a678572fc504e82e47fa82a822936d2f/09%20-%20Misc/Images/Graphview%20preview.png)
