@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Vault.md",
+                "file": "Objective.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Vault.md",
+                "file": "Objective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to Vault.md",
+                "file": "Objective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to Vault.md"
+                "file": "Objective.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "9ed584b309e42fb6",
   "lastOpenFiles": [
+    "How I Vault.md",
     "03 - Work in progress/OSPF.md",
     "03 - Work in progress/OSI Model.md",
     "03 - Work in progress/Attenuation.md",
@@ -191,7 +192,6 @@
     "TagsRoutes/logs",
     "TagsRoutes",
     "02 - Tags/Calculation.md",
-    "02 - Tags/Mathematics.md",
     "09 - Misc/TagsRoutes/reports",
     "09 - Misc/TagsRoutes/logs",
     "09 - Misc/TagsRoutes",
