@@ -6,7 +6,7 @@ Categorizing networking topics is hard. There is a lot of overlap between concep
 
 **Obsidian** offers a totally non-tradition approach to taking notes. In school, we were always taught to organize ideas by category. Math, Chemistry, Physics, Computer Science etc... But what if I told you, all these topics are interlinked and there are ideas that span across each of these categories. The idea of ethernet --- using 4 pairs of copper cable, to send data at a fixed clock rate, with the environmental factors of attenuation over 100m, or large electrical fields; everything is interconnected. 
 
-Obsidian offers a better approach to understanding these topics, where you can link topics and ideas that span across multiple domains ;) ethernet can be related to PoE, electrical, ohms law, capacitance, attenuation, AC/DC... a million freaking topics! By making these links, its 
+Obsidian offers a better approach to understanding these topics, where you can link topics and ideas that span across multiple domains ;) ethernet can be related to PoE, electrical, ohms law, capacitance, attenuation, AC/DC... a million freaking topics! By making these links it makes way for a be
 
 Another really cool part about my obsidian methodology are Tags. While they can link nodes together, it also acts as an aside, to leave room for further elaboration on topics. I may not create a note specific to a tag, however, if i find the need to, I can!
 
