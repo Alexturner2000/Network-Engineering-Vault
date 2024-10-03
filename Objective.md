@@ -4,5 +4,5 @@ I also want to be able to research certain topics that i find incredibly interes
 
 In using obsidian, it may offer a better approach to understanding these topics. I personally find that in many cases, understanding networking concepts is relatively abstract, since they often share common topics that you may or may not understand. Hopefully this vault will help myself understand the importance of certain topics in the field and give me a better understanding at where
 
-Another really cool part about my obsidian methodolgy are Tags. While they can link node
+Another really cool part about my obsidian methodology are Tags. While they can link nodes together, it also acts as an aside, to leave room for further elaboration on topics. I may not create a note specific to a tag, however, if i find the need to, i can!
 
