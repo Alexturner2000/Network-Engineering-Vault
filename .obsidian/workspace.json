@@ -11,12 +11,8 @@
             "id": "651f4777c5fd95d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,6 +143,7 @@
   },
   "active": "651f4777c5fd95d4",
   "lastOpenFiles": [
+    "README.md",
     "Objective.md",
     "How I Vault.md",
     "03 - Work in progress/OSPF.md",
@@ -178,7 +171,6 @@
     "03 - Work in progress/Joule's law.md",
     "03 - Work in progress/Flux.md",
     "09 - Misc/Images/image28.png",
-    "03 - Work in progress/Routing Protocols.md",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
     "TagsRoutes",
