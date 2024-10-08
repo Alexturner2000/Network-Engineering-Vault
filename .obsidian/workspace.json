@@ -11,8 +11,12 @@
             "id": "651f4777c5fd95d4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01 - Main Notes/Farads.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 - Main Notes/Farads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 - Main Notes/Farads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 - Main Notes/Farads.md"
+              }
             }
           }
         ]
@@ -143,12 +151,14 @@
   },
   "active": "651f4777c5fd95d4",
   "lastOpenFiles": [
+    "03 - Work in progress/Attenuation Coefficient.md",
+    "01 - Main Notes/Henries.md",
+    "03 - Work in progress/Attenuation.md",
     "Objective.md",
     "How I Vault.md",
     "README.md",
     "03 - Work in progress/OSPF.md",
     "03 - Work in progress/OSI Model.md",
-    "03 - Work in progress/Attenuation.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.28.21.excalidraw.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.23.57.excalidraw.md",
     "03 - Work in progress/Link-state Database.md",
@@ -168,8 +178,6 @@
     "03 - Work in progress/Current.md",
     "03 - Work in progress/Data.md",
     "03 - Work in progress/Ohms Law.md",
-    "03 - Work in progress/Joule's law.md",
-    "03 - Work in progress/Flux.md",
     "09 - Misc/Images/image28.png",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
