@@ -21,10 +21,12 @@
             "id": "016e5142e08f8455",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "image",
+              "state": {
+                "file": "09 - Misc/Images/Graphview preview.png"
+              },
+              "icon": "lucide-image",
+              "title": "Graphview preview"
             }
           }
         ],
@@ -100,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "09 - Misc/Images/Graphview preview.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Graphview preview"
             }
           },
           {
@@ -118,11 +121,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "09 - Misc/Images/Graphview preview.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Graphview preview"
             }
           },
           {
@@ -143,9 +147,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "09 - Misc/Images/Graphview preview.png"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Graphview preview"
             }
           }
         ]
