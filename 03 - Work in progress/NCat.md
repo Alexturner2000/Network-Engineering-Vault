@@ -1,7 +1,7 @@
 # Ncat
 Tags: [[Tools]], [[Kali]]
 
-The NCat tool is used to capture an incomming TCP or UDP request.  An example capture would be:
+The Ncat tool is used to capture an incomming TCP or UDP request.  An example capture would be:
 
 ```
 ┌──(kali㉿kali)-[~]
@@ -20,3 +20,5 @@ Accept-Language: en-US,en
 Accept-Encoding: gzip, deflate
 Cookie: csrftoken=6oWojjbzdqOGpVbxJWAJHo8nMFJU1PrX; sessionid=prwbh9y0n3ltom1rxu1wzlxutiany53q
 ```
+
+[Ncat](https://nmap.org/ncat/)
