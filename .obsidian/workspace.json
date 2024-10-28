@@ -16,21 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "016e5142e08f8455",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "09 - Misc/Images/Graphview preview.png"
-              },
-              "icon": "lucide-image",
-              "title": "Graphview preview"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 - Misc/Images/Graphview preview.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Graphview preview"
+              "title": "Backlinks"
             }
           },
           {
@@ -121,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Misc/Images/Graphview preview.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Graphview preview"
+              "title": "Outgoing links"
             }
           },
           {
@@ -147,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "09 - Misc/Images/Graphview preview.png"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Graphview preview"
+              "title": "Outline"
             }
           }
         ]
@@ -174,8 +157,9 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "016e5142e08f8455",
+  "active": "651f4777c5fd95d4",
   "lastOpenFiles": [
+    "09 - Misc/Images/Graphview preview.png",
     "How I Vault.md",
     "README.md",
     "Objective.md",
@@ -202,7 +186,6 @@
     "02 - Tags/link state.md",
     "02 - Tags/Wireless.md",
     "03 - Work in progress/Cell Tower Map (Canada).md",
-    "02 - Tags/Electrical.md",
     "09 - Misc/Images/Pasted image 20240926123551.png",
     "09 - Misc/Images/image28.png",
     "TagsRoutes/reports",
@@ -215,7 +198,6 @@
     "09 - Misc/TagsRoutes/logs",
     "09 - Misc/TagsRoutes",
     "09 - Misc/Images/Straight Through Wiring Scheme.png",
-    "09 - Misc/Images/Graphview preview.png",
     "09 - Misc/Images/Crossover Cable Wiring Scheme.png"
   ]
 }
