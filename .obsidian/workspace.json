@@ -11,12 +11,14 @@
             "id": "651f4777c5fd95d4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "09 - Misc/Images/Pasted image 20240926123551.png"
+                "file": "03 - Work in progress/NCat.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240926123551"
+              "icon": "lucide-file",
+              "title": "NCat"
             }
           }
         ]
@@ -161,6 +163,15 @@
   },
   "active": "651f4777c5fd95d4",
   "lastOpenFiles": [
+    "03 - Work in progress/Ohms Law.md",
+    "03 - Work in progress/PoE.md",
+    "03 - Work in progress/Remote Site Planning.md",
+    "03 - Work in progress/Attenuation Coefficient.md",
+    "03 - Work in progress/Cabling Common Practice.md",
+    "03 - Work in progress/Capacitance.md",
+    "03 - Work in progress/Cat5e Capacitance Calculation.md",
+    "03 - Work in progress/Cell Tower Map (Canada).md",
+    "09 - Misc/Images/Pasted image 20240926123551.png",
     "02 - Tags/Electrical.md",
     "09 - Misc/Images/Graphview preview.png",
     "How I Vault.md",
@@ -170,7 +181,6 @@
     "02 - Tags/Kali.md",
     "02 - Tags/Tools.md",
     "03 - Work in progress/NCat",
-    "03 - Work in progress/Attenuation Coefficient.md",
     "01 - Main Notes/Farads.md",
     "01 - Main Notes/Henries.md",
     "03 - Work in progress/Attenuation.md",
@@ -181,15 +191,7 @@
     "03 - Work in progress/Link-state Database.md",
     "09 - Misc/Images/Excalidraw/Connected Backbone and Regular Areas.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 12.51.48.excalidraw.md",
-    "03 - Work in progress/Cat5e Capacitance Calculation.md",
     "03 - Work in progress/link-state advertisements.md",
-    "03 - Work in progress/PoE.md",
-    "02 - Tags/RF.md",
-    "03 - Work in progress/SPF algorithm.md",
-    "02 - Tags/link state.md",
-    "02 - Tags/Wireless.md",
-    "03 - Work in progress/Cell Tower Map (Canada).md",
-    "09 - Misc/Images/Pasted image 20240926123551.png",
     "09 - Misc/Images/image28.png",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
