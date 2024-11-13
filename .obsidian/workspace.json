@@ -11,10 +11,12 @@
             "id": "651f4777c5fd95d4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "image",
+              "state": {
+                "file": "09 - Misc/Images/Pasted image 20240926123551.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240926123551"
             }
           }
         ]
@@ -159,6 +161,7 @@
   },
   "active": "651f4777c5fd95d4",
   "lastOpenFiles": [
+    "02 - Tags/Electrical.md",
     "09 - Misc/Images/Graphview preview.png",
     "How I Vault.md",
     "README.md",
