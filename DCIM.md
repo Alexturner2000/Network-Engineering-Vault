@@ -1,2 +1,4 @@
 # DCIM (Data Centre Infrastructure Management)
-Tags: [[Datacenter]], [[]]
+Tags: [[Datacenter]], [[Infrastructure]], 
+
+A techstack for monitoring datacenter
