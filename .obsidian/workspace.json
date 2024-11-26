@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DCIM.md",
+                "file": "03 - Work in progress/OSI Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DCIM"
+              "title": "OSI Model"
             }
           }
         ],
@@ -174,8 +174,9 @@
   },
   "active": "a8ba781f9fb08567",
   "lastOpenFiles": [
-    "02 - Tags/Datacenter.md",
+    "03 - Work in progress/OSI Model.md",
     "DCIM.md",
+    "02 - Tags/Datacenter.md",
     "02 - Tags/Infrastructure.md",
     "03 - Work in progress/NCat.md",
     "03 - Work in progress/Ohms Law.md",
@@ -199,7 +200,6 @@
     "01 - Main Notes/Henries.md",
     "03 - Work in progress/Attenuation.md",
     "03 - Work in progress/OSPF.md",
-    "03 - Work in progress/OSI Model.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.28.21.excalidraw.md",
     "09 - Misc/Images/Excalidraw/Drawing 2024-09-26 13.23.57.excalidraw.md",
     "03 - Work in progress/Link-state Database.md",
