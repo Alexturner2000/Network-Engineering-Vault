@@ -29,16 +29,25 @@ aaa accounting connection default start-stop group tacacs+
 ```
 
 ### TACACS server config
-```
-aaa group server tacacs+ CLEARPASS
- server name {name}
- server name {name
 
-aaa group server radius CLEARPASSRADIUS
- server name {name
- server name {name
+```
+aaa group server tacacs+ {group_name}
+ server name {name}
+ server name {name}
+
+aaa group server radius {group_name}
+ server name {name}
+ server name {name}
  
 aaa server radius dynamic-author
  client ip server-key {key}
  client ip server-key {key}
  port 3800
+```
+
+### Reload
+```
+reload in {time-in-minutes}
+reload cancel
+```
+
