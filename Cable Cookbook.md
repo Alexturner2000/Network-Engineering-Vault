@@ -2,13 +2,16 @@
 Tags: [[Cookbook]] [[Layer 1]]
 
 Cables come in all shapes and sizes. Here's a massive spreadsheet for all my cable needs!
+### **Network Data Cables Spreadsheet**
 
-
-| Cable      | Speed | Materal | Connector |
-| ---------- | ----- | ------- | --------- |
-| Cat5e      |       |         |           |
-| Cat6       |       | Copper  |           |
-| Cat6e      |       | Copper  |           |
-| Cat7       |       | Copper  |           |
-| Cat8       |       | Copper  |           |
-| Singlemode |       | Fiber   |           |
+| **Cable Type**    | **Category/Version**            | **Speed (Bandwidth)**                    | **Material**               | **Max Distance (at full speed)**                                | **Connector Type** | **Cable Shielding**        | **Use Case**                 | **Typical Applications**                            | **Cost (Approx.)** |
+| ----------------- | ------------------------------- | ---------------------------------------- | -------------------------- | --------------------------------------------------------------- | ------------------ | -------------------------- | ---------------------------- | --------------------------------------------------- | ------------------ |
+| **Twisted Pair**  | **Cat5e**                       | Up to 1 Gbps (Gigabit)                   | Copper (Solid or Stranded) | 100 meters (328 feet)                                           | RJ45               | U/UTP (Unshielded)         | Basic Networking             | Home networking, Small Office, Ethernet connections | Low ($)            |
+| **Twisted Pair**  | **Cat6**                        | Up to 10 Gbps                            | Copper (Solid or Stranded) | 55 meters (180 feet) for 10 Gbps, 100 meters for 1 Gbps         | RJ45               | U/UTP or F/UTP (Foiled)    | Standard Networking          | Ethernet, Video Streaming, Gaming                   | Medium ($$)        |
+| **Twisted Pair**  | **Cat6a**                       | 10 Gbps                                  | Copper (Solid)             | 100 meters (328 feet)                                           | RJ45               | F/UTP or S/FTP (Shielded)  | High-Speed Networking        | Data Centers, High-performance Networking           | High ($$$)         |
+| **Twisted Pair**  | **Cat7**                        | 10 Gbps                                  | Copper (Solid)             | 100 meters (328 feet)                                           | GG45 or RJ45       | S/FTP (Shielded Foiled)    | High-End Networking          | Large enterprises, Video over IP, Data Centers      | High ($$$)         |
+| **Twisted Pair**  | **Cat8**                        | 25-40 Gbps                               | Copper (Solid)             | 30 meters (98 feet)                                             | RJ45 or TERA       | S/FTP (Shielded Foiled)    | Ultra-High-Speed Networking  | Data Centers, Server Farms                          | Very High ($$$$)   |
+| **Fiber Optic**   | **Single-mode (OS1/OS2)**       | 1 Gbps to 100 Gbps+                      | Glass (Fiber Optic)        | 10 km (6.2 miles) for 10 Gbps, 40 km (24.8 miles) for 100 Gbps+ | LC, SC, MTP/MPO    | No shielding (Light-based) | Long-Distance Networking     | Internet Backbone, Large Data Networks              | Very High ($$$$)   |
+| **Fiber Optic**   | **Multimode (OM1/OM2/OM3/OM4)** | 1 Gbps to 100 Gbps                       | Glass (Fiber Optic)        | 550 meters (OM3) for 10 Gbps, 300 meters (OM4) for 40 Gbps      | LC, SC, MTP/MPO    | No shielding (Light-based) | Medium to Long-Distance      | Data Centers, Campus Networks                       | Medium ($$-$$$)    |
+| **Coaxial Cable** | **RG6**                         | Up to 1 Gbps (depending on signal type)  | Copper (Solid or Stranded) | 100 meters (328 feet)                                           | F-type or BNC      | Shielded (Foil + Braided)  | Cable TV, Internet           | Video/TV Signals, Broadband Internet                | Low ($)            |
+| **Coaxial Cable** | **RG11**                        | Up to 10 Gbps (depending on signal type) | Copper (Solid)             | 100 meters (328 feet)                                           | F-type or BNC      | Shielded (Foil + Braided)  | Higher-Performance Broadband | Longer distances for internet, TV                   | Medium ($$)        |
