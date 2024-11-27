@@ -16,6 +16,7 @@ Cables come in all shapes and sizes. Here's a massive spreadsheet for all my cab
 
 
 ### Copper Versions and Speeds:
+
 | **Cable Type**                | **Category/Version**     | **Speed (Bandwidth)**                    | **Material**               | **Max Distance (at full speed)**                        | **Connector Type**                 | **Cable Shielding**       | **Use Case**                          | **Typical Applications**                            | **Cost (Approx.)** |
 | ----------------------------- | ------------------------ | ---------------------------------------- | -------------------------- | ------------------------------------------------------- | ---------------------------------- | ------------------------- | ------------------------------------- | --------------------------------------------------- | ------------------ |
 | **Twisted Pair**              | **Cat5e**                | Up to 1 Gbps (Gigabit)                   | Copper (Solid or Stranded) | 100 meters (328 feet)                                   | RJ45                               | U/UTP (Unshielded)        | Basic Networking                      | Home networking, Small Office, Ethernet connections | Low ($)            |
