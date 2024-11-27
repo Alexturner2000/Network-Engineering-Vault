@@ -1,5 +1,5 @@
 # Aruba 6200F Cookbook
-Tags: [[Cookbook]]
+Tags: [[Cookbook]], [[HPE]]
 
 
 ### Adding switch to stack

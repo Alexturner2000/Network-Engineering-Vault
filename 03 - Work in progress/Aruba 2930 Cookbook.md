@@ -1,3 +1,6 @@
+# Aruba 2930 Cookbook
+Tags: [[Cookbook]], [[HPE]]
+
 Compatible SFPs
 - 1G SFP SX (Fiber Multimode) - J4858D
 - 1G SFP SX (Fiber Singlemode) - J4859D

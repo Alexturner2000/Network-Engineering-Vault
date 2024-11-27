@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aruba 6200F Cookbook.md",
+                "file": "03 - Work in progress/Aruba 6200F Cookbook.md",
                 "mode": "source",
                 "source": false
               },
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,10 +210,11 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "d05842c69ad2aa03",
+  "active": "a318511a019e54fd",
   "lastOpenFiles": [
+    "03 - Work in progress/Aruba 6200F Cookbook.md",
     "03 - Work in progress/Aruba 2930 Cookbook.md",
-    "Aruba 6200F Cookbook.md",
+    "02 - Tags/HPE.md",
     "02 - Tags/Cookbook.md",
     "03 - Work in progress/OSI Model.md",
     "DCIM.md",
@@ -240,7 +241,6 @@
     "01 - Main Notes/Farads.md",
     "01 - Main Notes/Henries.md",
     "03 - Work in progress/Attenuation.md",
-    "03 - Work in progress/OSPF.md",
     "09 - Misc/Images/image28.png",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
