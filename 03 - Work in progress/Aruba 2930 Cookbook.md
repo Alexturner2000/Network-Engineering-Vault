@@ -23,4 +23,4 @@ Adding new devices
 3. Once applied to the switch/ap, connect them directly to the ISP
 4. It will show up under the default group in Aruba Central. Move it to its corresponding group to apply the default template.
 5. Add the switch to the site
-6. Rename the switch. Go to the `site` -> `devices` -> `switches` -> select the switch -> `device` > change group var hostname. This change will happen immediately
+6. Rename the switch. Go to the `site` -> `devices` -> `switches` -> select the switch -> `device` -> change group var hostname. This change will happen immediately
