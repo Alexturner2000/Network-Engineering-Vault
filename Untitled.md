@@ -1,5 +1,5 @@
 # Catalyst 3750 Cookbook
-Tags: [[Our Inventory]]
+Tags: [[Cookbook]], [[Cisco]]
 
 ### Unstack a previously used switch
 ```
