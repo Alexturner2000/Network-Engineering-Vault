@@ -1,6 +1,6 @@
 # NAC
 
-Tags: [[802.1x]]
+Tags: [[802.1x]], 
 
 There are two different types Network Access Control (NAC). MAC auth and Cert Auth.
 
