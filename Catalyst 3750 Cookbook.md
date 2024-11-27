@@ -27,3 +27,18 @@ aaa accounting commands 1 default start-stop group tacacs+
 aaa accounting commands 15 default start-stop group tacacs+
 aaa accounting connection default start-stop group tacacs+
 ```
+
+### TACACS server config
+```
+aaa group server tacacs+ CLEARPASS
+ server name {name}
+ server name {name
+
+aaa group server radius CLEARPASSRADIUS
+ server name {name
+ server name {name
+ 
+aaa server radius dynamic-author
+ client ip server-key {key}
+ client ip server-key {key}
+ port 3800
