@@ -23,8 +23,16 @@ Cables come in all shapes and sizes. Here's a massive spreadsheet for all my cab
 | **Ethernet Over Powerline**   | **HomePlug AV2**          | Up to 2 Gbps                             | Copper (Powerline)         | 300 meters (984 feet)                                               | Power Outlet                       | No Shielding               | Home and Office Networking            | Home internet extension via electrical outlets      | Medium ($$)        |
 | **Ethernet Over Powerline**   | **G.hn**                  | Up to 2 Gbps                             | Copper (Powerline)         | 200 meters (656 feet)                                               | Power Outlet                       | No Shielding               | Home and Office Networking            | Home internet extension via electrical outlets      | Medium ($$)        |
 | **Direct Attach Cable (DAC)** | **Passive Copper (DAC)**  | 10 Gbps to 25 Gbps                       | Copper (Solid)             | 5 meters (16 feet)                                                  | SFP+, QSFP+                        | Shielded (Foil)            | Short-range, High-density connections | Server-to-switch connections, Top-of-rack (TOR)     | Medium ($$)        |
-| **Direct Attach Cable (DAC)** | **Active Copper (DAC)** | 10 Gbps to 25 Gbps | Copper (Solid) | 7 meters (23 feet) | SFP+, QSFP+ | Shielded (Foil) | Active high-speed connections | Server-to-server, server-to-switch | High ($$$) |
-| ----------------------------- | ----------------------- | ------------------ | -------------- | ------------------ | ----------- | --------------- | ----------------------------- | ---------------------------------- | ---------- |
+| **Direct Attach Cable (DAC)** | **Active Copper (DAC)**   | 10 Gbps to 25 Gbps                       | Copper (Solid)             | 7 meters (23 feet)                                                  | SFP+, QSFP+                        | Shielded (Foil)            | Active high-speed connections         | Server-to-server, server-to-switch                  | High ($$$)         |
 
-| **Direct Attach Cable (DAC)** | **Active Copper (DAC)** | 10 Gbps to 25 Gbps | Copper (Solid) | 7 meters (23 feet) | SFP+, QSFP+ | Shielded (Foil) | Active high-speed connections | Server-to-server, server-to-switch | High ($$$) |
-| ----------------------------- | ----------------------- | ------------------ | -------------- | ------------------ | ----------- | --------------- | ----------------------------- | ---------------------------------- | ---------- |
+### InfiniBand Versions and Speeds:
+
+|**InfiniBand Version**|**Speed (Bandwidth)**|**Max Distance**|**Typical Applications**|**Connector Type**|
+|---|---|---|---|---|
+|**SDR (Single Data Rate)**|10 Gbps|Up to 100 meters (optical)|Basic interconnects, HPC, Storage|QSFP, SFP, LC|
+|**DDR (Double Data Rate)**|20 Gbps|Up to 100 meters (optical)|Medium-range HPC, Clusters|QSFP, SFP, LC|
+|**QDR (Quad Data Rate)**|40 Gbps|Up to 100 meters (optical)|High-performance computing (HPC), Research|QSFP, LC|
+|**FDR (Fourteen Data Rate)**|56 Gbps|Up to 100 meters (optical)|Large-scale supercomputing, Big Data|QSFP, LC|
+|**EDR (Enhanced Data Rate)**|100 Gbps|Up to 100 meters (optical)|Data centers, Research, HPC|QSFP28, LC|
+|**HDR (High Data Rate)**|200 Gbps|Up to 100 meters (optical)|Large-scale HPC, Deep Learning, AI|QSFP56, LC|
+|**NDR (Next Data Rate)**|400 Gbps|Up to 100 meters (optical)|High-performance computing, AI, Data Centers|QSFP112, LC|
