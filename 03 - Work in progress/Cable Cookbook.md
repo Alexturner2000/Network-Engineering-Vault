@@ -2,7 +2,6 @@
 Tags: [[Cookbook]] [[Layer 1]]
 
 Cables come in all shapes and sizes. Here's a massive spreadsheet for all my cable needs!
-# **Network Data Cables Spreadsheet**
 
 ### Fiber Versions and Speeds:
 
@@ -33,7 +32,7 @@ Cables come in all shapes and sizes. Here's a massive spreadsheet for all my cab
 | **Direct Attach Cable (DAC)** | **Passive Copper (DAC)** | 10 Gbps to 25 Gbps                       | Copper (Solid)             | 5 meters (16 feet)                                      | SFP+, QSFP+                        | Shielded (Foil)           | Short-range, High-density connections | Server-to-switch connections, Top-of-rack (TOR)     | Medium ($$)        |
 | **Direct Attach Cable (DAC)** | **Active Copper (DAC)**  | 10 Gbps to 25 Gbps                       | Copper (Solid)             | 7 meters (23 feet)                                      | SFP+, QSFP+                        | Shielded (Foil)           | Active high-speed connections         | Server-to-server, server-to-switch                  | High ($$$)         |
 
-### InfiniBand Cable Types and Metrics
+### InfiniBand Cable Types and Metrics (not IP level data transmit)
 
 | **Cable Type** | **Category/Version**         | **Speed (Bandwidth)** | **Material**          | **Max Distance (at full speed)**             | **Connector Type** | **Cable Shielding**      | **Use Case**                                     | **Typical Applications**                            | **Cost (Approx.)** |
 | -------------- | ---------------------------- | --------------------- | --------------------- | -------------------------------------------- | ------------------ | ------------------------ | ------------------------------------------------ | --------------------------------------------------- | ------------------ |
