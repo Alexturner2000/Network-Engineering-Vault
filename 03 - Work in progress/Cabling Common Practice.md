@@ -15,4 +15,5 @@ Patch panels directly above and below the switch are freaking amazing. However, 
 
 ![[09 - Misc/Images/Excalidraw/patchpannel.excalidraw]]
 
-
+## Cable Management
+https://www.eaton.com/content/dam/eaton/products/server-racks-enclosures-airflow-management/racks-enclosures/high-density-network-rack/rcm-rcm+brochure-br303002en.pdf

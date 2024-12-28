@@ -11,10 +11,14 @@
             "id": "70a6e0c3734c88cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03 - Work in progress/Cabling Common Practice.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cabling Common Practice"
             }
           }
         ]
@@ -159,9 +163,15 @@
   },
   "active": "70a6e0c3734c88cf",
   "lastOpenFiles": [
-    "03 - Work in progress/Ohms Law.md",
     "03 - Work in progress/Cable Cookbook.md",
+    "03 - Work in progress/Cabling Common Practice.md",
+    "03 - Work in progress/Cat5e Capacitance Calculation.md",
+    "03 - Work in progress/Ethernet.md",
+    "03 - Work in progress/Cell Tower Map (Canada).md",
     "03 - Work in progress/Catalyst 3750 Cookbook 1.md",
+    "03 - Work in progress/Catalyst 3750 Cookbook.md",
+    "03 - Work in progress/DCIM.md",
+    "03 - Work in progress/Ohms Law.md",
     "03 - Work in progress/NAC.md",
     "02 - Tags/Cookbook.md",
     "03 - Work in progress/Scripts Cookbook.md",
@@ -169,22 +179,16 @@
     "09 - Misc/Images/Excalidraw/Drawing 2024-08-30 14.28.05.excalidraw.md",
     "03 - Work in progress/Aruba 6200F Cookbook.md",
     "802.1x.md",
-    "03 - Work in progress/Catalyst 3750 Cookbook.md",
     "02 - Tags/Cisco.md",
     "03 - Work in progress/Aruba Mobility Conductor Cookbook.md",
     "03 - Work in progress/Aruba 2930 Cookbook.md",
     "02 - Tags/HPE.md",
     "03 - Work in progress/OSI Model.md",
-    "DCIM.md",
     "02 - Tags/Datacenter.md",
     "02 - Tags/Infrastructure.md",
     "03 - Work in progress/NCat.md",
     "03 - Work in progress/PoE.md",
     "03 - Work in progress/Remote Site Planning.md",
-    "03 - Work in progress/Attenuation Coefficient.md",
-    "03 - Work in progress/Cabling Common Practice.md",
-    "03 - Work in progress/Capacitance.md",
-    "03 - Work in progress/Cat5e Capacitance Calculation.md",
     "09 - Misc/Images/Pasted image 20240926123551.png",
     "09 - Misc/Images/Graphview preview.png",
     "03 - Work in progress/NCat",
