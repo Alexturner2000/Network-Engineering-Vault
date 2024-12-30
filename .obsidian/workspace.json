@@ -157,8 +157,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "tags-routes:Open tags routes": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "70a6e0c3734c88cf",
